@@ -29,4 +29,3 @@
 		- iOS
 		- Embedded C
 		- Arduino
-- 
