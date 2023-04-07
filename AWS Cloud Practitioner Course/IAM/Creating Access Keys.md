@@ -5,5 +5,3 @@
 - Select what the access key is for and choose next
 - Select create access key
 - Save the access key and secret access key since these are the only time they will be available
-- Access key: AKIAX2M6QJI7QM7X6LJP
-- Access secret key: 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
