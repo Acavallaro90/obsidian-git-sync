@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3fc748a4ceb7e08e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Cloud Practitioner Course/IAM/Creating Access Keys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37a6909ad07abc73",
+  "active": "3fc748a4ceb7e08e",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner Course/IAM/Configuring AWS CLI.md",
     "AWS Cloud Practitioner Course/IAM/AWS Access Keys, CLI, and SDK.md",
     "AWS Cloud Practitioner Course/IAM/Creating Access Keys.md",
     "AWS Cloud Practitioner Course/IAM/IAM MFA Overview.md",

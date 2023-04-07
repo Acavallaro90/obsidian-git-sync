@@ -1,0 +1,11 @@
+- From command prompt, run the following
+	- aws configure
+- Provide the following things
+	- AWS Access Key
+		- Saved in password manager
+	- AWS Secret Access Key
+		- Saved in password manager
+	- Default Region Name
+		- Viewable in AWS Management Console
+	- Default Output Format
+		- Press enter
