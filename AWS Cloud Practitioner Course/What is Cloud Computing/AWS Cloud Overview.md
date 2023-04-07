@@ -1,0 +1,20 @@
+- AWS Regions:
+	- AWS has regions all around the world
+	- Names can be us-east-1, eu-west-3, etc.
+	- A region is a cluster of data centers
+	- Most AWS services are region-scoped
+- How to choose an AWS region
+	- Compliance with data governance and legal requirements
+		- Data never leaves a region without your explicit permission
+		- Proximity to customers: reduced latency
+		- Available services within a region: new services and new features aren't available in every region
+		- Pricing: pricing varies region to region and is transparent in the service pricing page
+- AWS Availability Zones:
+	- Each region has many availability zones
+		- Usually 3 (minimum is 3 and maximum is 6)
+	- Each availability zone is one or more discrete data centers with redundant power, networking, and connectivity
+	- They're separate from each other so that they're isolated from disasters
+	- They're connected with high bandwidth, ultra-low latency networking
+- AWS Points of Presence (Edge Locations)
+	- Amazon has 216 points of presence (205 edge locations and 11 regional caches) in 84 cities across 42 countries
+	- Content is delivered to end users with lower latency

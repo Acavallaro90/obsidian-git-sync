@@ -1,0 +1,70 @@
+- Infrastructure as a Service (IaaS)
+	- Provide building blocks for cloud IT
+	- Provides networking, computers, data storage space
+	- Highest level of flexibility
+	- Easy parallel with traditional on-premises IT
+	- Amazon EC2
+- Platform as a Service (PaaS)
+	- Removes the need for your organization to manage the underlying infrastructure
+	- Focus on the deployment and management of your applications
+	- Elastic Beanstalk
+- Software as a Service (SaaS)
+	- Completed product that is run and managed by the service provider
+	- Many AWS services
+- Responsibilities:
+	- On-premises
+		- Things managed by you
+			- Applications
+			- Data
+			- Runtime
+			- Middleware
+			- O/S
+			- Virtualization
+			- Servers
+			- Storage
+			- Networking
+		- Things managed by the cloud
+			- Nothing
+	- IaaS
+		- Things managed by you
+			- Applications
+			- Data
+			- Runtime
+			- Middleware
+			- O/S
+		- Things managed by the cloud
+			- Virtualization
+			- Servers
+			- Storage
+			- Networking
+	- PaaS
+		- Things managed by you
+			- Applications
+			- Data
+		- Things managed by the cloud
+			- Runtime
+			- Middleware
+			- O/S
+			- Virtualization
+			- Servers
+			- Storage
+			- Networking
+	- SaaS
+		- Things managed by you
+			- Nothing
+		- Things managed by the cloud
+			- Applications
+			- Data
+			- Runtime
+			- Middleware
+			- O/S
+			- Virtualization
+			- Servers
+			- Storage
+			- Networking
+- AWS has 3 pricing fundamentals, following the pay-as-you-go pricing model
+	- Compute: pay for compute time
+	- Storage: pay for data stored in the cloud
+	- Data:
+		- Data transfer out of the cloud
+		- Data transfer in to the cloud is free
