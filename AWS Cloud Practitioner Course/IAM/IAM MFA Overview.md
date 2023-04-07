@@ -1,0 +1,24 @@
+- In AWS, you can setup a password policy
+	- Set a minimum password length
+	- Require specific character types
+		- Uppercase letters
+		- Lowercase letters
+		- Numbers
+		- Non-alphanumeric characters
+	- Allow all IAM users to change their own passwords
+	- Require users to change their password after some time (password expiration)
+	- Prevent password re-use
+- Multi Factor Authentication
+	- Users have access to your account and can possibly change configurations or delete resources in your AWS account
+	- You want to protect your root accounts and IAM users
+- MFA devices
+	- Virtual MFA device
+		- Google Authenticator
+		- Authy
+		- Support for multiple tokens on a single device
+	- Universal 2nd Factor (U2F) Security Key
+		- Third party physical security device
+		- Support for multiple root and IAM users using a single security key
+	- Hardware Key Fob MFA device
+	- Hardware Key Fob MFA device for AWS GovCloud (US)
+- 

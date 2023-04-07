@@ -1,0 +1,17 @@
+- IAM Policies structure (JSON):
+	- Consists of
+		- Version
+			- Policy language version
+		- ID
+			- An identifier for the policy (optional)
+		- Statements
+			- One or more individual statements
+			- Statements consist of
+				- SID: an identifier for the statement (optional)
+				- Effect: whether the statement allows or denies access
+					- Allow
+					- Deny
+				- Principal: account/user/role to which this policy is applied to
+				- Action: list of actions this policy allows or denies
+				- Resource: list of resources to which the actions will be applied to
+				- Condition: conditions for when this policy is in effect (optional)
