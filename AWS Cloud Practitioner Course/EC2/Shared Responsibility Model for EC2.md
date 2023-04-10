@@ -1,0 +1,12 @@
+- AWS responsibility
+	- Infrastructure (global network security)
+	- Isolation on physical hosts
+	- Replacing faulty hardware
+	- Comliance validation
+- User responsibility
+	- Security group rules
+	- Operating System patches and updates
+	- Software and utilites installed on the EC2 instance
+	- IAM roles assigned to EC2
+	- IAM user access management
+	- Data security on your instance

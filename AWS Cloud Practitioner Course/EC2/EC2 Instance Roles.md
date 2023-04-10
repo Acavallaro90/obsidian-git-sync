@@ -1,0 +1,10 @@
+- To attach an IAM role to an EC2 instance, follow these steps
+	- Navigate to the EC2 instance
+	- Go to Security tab
+	- Verify which role is currently set (if none, set one using next steps)
+	- Go to Actions dropdown menu
+	- Go to Security and Modify IAM role
+	- Choose the role you want for this EC2 instance
+	- Update IAM role
+- Note: never, ever enter credentials into EC2 instances
+	- Instead you should setup IAM roles that allow the instances to access certain permissions based on what you need the instance to do

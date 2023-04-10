@@ -1,0 +1,5 @@
+- Navigate to EC2 instance you want to SSH into
+- Click Connect at the top
+- Verify all things are correct
+	- Username would be the only one if using a custom AMI to verify
+- Connect

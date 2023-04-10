@@ -1,0 +1,28 @@
+- ECS Instance comprises of the following
+	- AMI (Amazon Machine Images)
+		- Operating System
+	- Instance Size
+		- CPU
+		- RAM
+	- Storage
+	- Security Groups
+		- Firewall
+	- EC2 User Data
+- Security Groups
+	- Firewall attached to the EC2 instance
+- EC2 User Data
+	- Script launched at the first start of an instance
+- SSH
+	- Start a terminal into our EC2 instances (port 22)
+- EC2 Instance Role
+	- Link to IAM roles
+- Purchasing options
+	- On-Demand
+	- Spot
+	- Reserved
+		- Standard
+		- Convertible
+		- Scheduled
+	- Dedicated
+		- Host
+		- Instance
