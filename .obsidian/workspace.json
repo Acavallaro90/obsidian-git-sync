@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "76d537a02b70c919",
+        "id": "8e74ba5fe011383d",
         "type": "tabs",
         "children": [
           {
-            "id": "3eb73575de93cd6c",
+            "id": "e37e0cd6b4c2f152",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Cloud Practitioner Course/EC2/AWS Budget Setup.md",
+                "file": "AWS Cloud Practitioner Course/EC2/Introduction to Security Groups.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "36dff69deb10cb41",
+            "id": "947e49c3deebecc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Cloud Practitioner Course/EC2/EC2 Basics.md",
+                "file": "AWS Cloud Practitioner Course/EC2/SSH Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner Course/EC2/EC2 Basics.md",
+                "file": "AWS Cloud Practitioner Course/EC2/SSH Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner Course/EC2/EC2 Basics.md",
+                "file": "AWS Cloud Practitioner Course/EC2/SSH Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner Course/EC2/EC2 Basics.md"
+                "file": "AWS Cloud Practitioner Course/EC2/SSH Overview.md"
               }
             }
           }
@@ -159,26 +159,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36dff69deb10cb41",
+  "active": "947e49c3deebecc5",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner Course/EC2/Introduction to Security Groups.md",
+    "AWS Cloud Practitioner Course/EC2/SSH Overview.md",
+    "Pasted image 20230410143350.png",
+    "Pasted image 20230410140958.png",
+    "Pasted image 20230410140601.png",
+    "AWS Cloud Practitioner Course/EC2/Creating an EC2 Instance With EC2 User Data.md",
+    "AWS Cloud Practitioner Course/EC2/EC2 Instance Types Basics.md",
+    "CallMiner AWS RM Dev Environment",
+    "AWS Cloud Practitioner Course/IAM/IAM Roles.md",
+    "AWS Cloud Practitioner Course/IAM/Creating IAM Roles.md",
+    "AWS Cloud Practitioner Course/IAM/IAM Security Tools.md",
+    "AWS Cloud Practitioner Course/IAM/Summary.md",
+    "AWS Cloud Practitioner Course/IAM/Shared Responsibility Model for IAM.md",
+    "AWS Cloud Practitioner Course/IAM/Best Practices.md",
     "AWS Cloud Practitioner Course/EC2/AWS Budget Setup.md",
     "AWS Cloud Practitioner Course/EC2/EC2 Basics.md",
-    "AWS Cloud Practitioner Course/IAM/Summary.md",
     "AWS Cloud Practitioner Course/EC2",
-    "AWS Cloud Practitioner Course/IAM/Best Practices.md",
-    "AWS Cloud Practitioner Course/IAM/Shared Responsibility Model for IAM.md",
-    "AWS Cloud Practitioner Course/IAM/IAM Security Tools.md",
-    "AWS Cloud Practitioner Course/IAM/Creating IAM Roles.md",
-    "AWS Cloud Practitioner Course/IAM/IAM Roles.md",
+    "AWS Cloud Practitioner Course/IAM/Creating Access Keys.md",
     "AWS Cloud Practitioner Course/IAM/CloudShell.md",
     "AWS Cloud Practitioner Course/IAM/Configuring AWS CLI.md",
-    "AWS Cloud Practitioner Course/IAM/Creating Access Keys.md",
     "AWS Cloud Practitioner Course/IAM/AWS Access Keys, CLI, and SDK.md",
     "AWS Cloud Practitioner Course/IAM/IAM MFA Overview.md",
     "AWS Cloud Practitioner Course/IAM/IAM Policies.md",
     "AWS Cloud Practitioner Course/IAM/IAM Introduction.md",
-    "conflict-files-obsidian-git.md",
-    "Untitled",
     "Untitled.canvas",
     "AWS Cloud Practitioner Course/What is Cloud Computing/What is Cloud Computing.md",
     "AWS Cloud Practitioner Course/What is Cloud Computing/Types of Cloud Computing.md",

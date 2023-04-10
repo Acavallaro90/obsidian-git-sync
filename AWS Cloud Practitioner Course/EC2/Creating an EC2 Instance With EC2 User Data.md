@@ -1,0 +1,37 @@
+- Spinning up an EC2 Instance
+	- Go to EC2 dashboard
+	- Select Instances
+	- Select orange Launch Instances
+	- Fill the following fields
+		- Name of the server
+		- Choose an Operating System image that the server will be
+		- Choose an Instance Type
+		- Create a key pair
+			- Give it a name
+			- Choose RSA and PEM
+			- It will download to your machine
+		- Network settings
+			- Create or select security group
+			- Allow SSH traffic from <>
+			- Allow HTTPS traffic from the internet
+				- To setup an endpoint, i.e. web server
+			- Allow HTTP traffic from the internet
+				- To setup an endpoint, i.e. web server
+			- Configure storage
+				- Size and type
+			- Advanced details
+				- Domain join directory
+				- IAM instance profile
+				- Instance auto-recovery
+				- Shutdown behavior
+				- Stop - hibernate behavior
+				- Termination protection
+				- Stop protection
+				- Stop protection
+				- Detailed CloudhWatch monitoring
+				- Elastic GPU
+				- Elastic interference
+			- Summary
+	- Select create instance
+- If you start an instance, then restart it, the public IP address will change
+	- The private IP address will stay the same
