@@ -5,7 +5,7 @@
 - IAM Users
 	- Users are people within your organization and can be grouped
 	- Users don't have to belong to a group but a user can belong to multiple groups
-- IAM Groups
+- IAM Groups 
 	- Groups only contain users, not other groups
 - IAM Permissions
 	- Users or groups can be assigned JSON documents called policies

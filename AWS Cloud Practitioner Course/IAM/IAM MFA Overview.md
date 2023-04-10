@@ -21,4 +21,3 @@
 		- Support for multiple root and IAM users using a single security key
 	- Hardware Key Fob MFA device
 	- Hardware Key Fob MFA device for AWS GovCloud (US)
-- 
