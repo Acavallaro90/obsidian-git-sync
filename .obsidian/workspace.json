@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cf088f1f3b9ed92f",
+        "id": "d7258a0158a83fb7",
         "type": "tabs",
         "children": [
           {
-            "id": "37a6909ad07abc73",
+            "id": "1eeff8e3b13a4030",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Cloud Practitioner Course/IAM/Creating Access Keys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fc748a4ceb7e08e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Cloud Practitioner Course/IAM/Creating Access Keys.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner Course/IAM/Creating Access Keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner Course/IAM/Creating Access Keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AWS Cloud Practitioner Course/IAM/Creating Access Keys.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fc748a4ceb7e08e",
+  "active": "1eeff8e3b13a4030",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner Course/IAM/Creating Access Keys.md",
     "AWS Cloud Practitioner Course/IAM/Configuring AWS CLI.md",
     "AWS Cloud Practitioner Course/IAM/AWS Access Keys, CLI, and SDK.md",
-    "AWS Cloud Practitioner Course/IAM/Creating Access Keys.md",
     "AWS Cloud Practitioner Course/IAM/IAM MFA Overview.md",
     "AWS Cloud Practitioner Course/IAM/IAM Policies.md",
     "AWS Cloud Practitioner Course/IAM/IAM Introduction.md",
