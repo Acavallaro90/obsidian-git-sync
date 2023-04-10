@@ -1,0 +1,9 @@
+- Allowing access to billing for Administrators
+	- Top right corner where name is select Account
+	- Scroll to IAM User and Role Access to Billing Information
+	- Edit
+	- Check or uncheck Activate IAM Access
+	- Update
+- Creating a budget
+	- Under Billing Dashboard, select Budgets
+	- Select the options from the menu and setup the budget

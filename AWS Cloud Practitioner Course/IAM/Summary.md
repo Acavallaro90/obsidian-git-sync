@@ -1,0 +1,9 @@
+- Users: mapped to a physical user, has a password for AWS console
+- Groups: contains users only
+- Policies: JSON document that outlines permissions for users or groups
+- Roles: for EC2 instances or AWS services
+- Security: MFA and password policy
+- AWS CLI: manage your AWS services using the command line
+- AWS SDK: manage your AWS services using a programming language
+- Access keys: access AWS using the CLI or SDK
+- Audit: IAM Credential Report and IAM Access Advisor
