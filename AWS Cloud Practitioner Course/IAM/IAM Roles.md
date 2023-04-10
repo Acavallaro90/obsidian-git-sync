@@ -1,0 +1,6 @@
+- Some AWS services will need to perform actions on your behalf
+- To do so, we will assign permissions to AWS services with IAM roles
+- Common roles
+	- EC2 instance roles
+	- Lambda function roles
+	- CloudFormation roles
