@@ -1,0 +1,11 @@
+- IAM Credentials Report (account-level)
+	- A report that lists all your account's users and the status of their various credentials
+- IAM Access Advisor (user-level)
+	- Shows the service permissions granted to a user and when those services were last accessed
+	- You can use this information to revise your policies
+- Generating a Credentials Report
+	- Select Credential Report on the bottom left
+	- Download Credentials Report (.csv)
+- Access Advisor
+	- Click on the desired user
+	- Select access advisor

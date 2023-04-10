@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09b36e465d88cad6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner Course/IAM/Configuring AWS CLI.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner Course/IAM/Configuring AWS CLI.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner Course/IAM/Configuring AWS CLI.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,15 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1eeff8e3b13a4030",
+  "active": "09b36e465d88cad6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "AWS Cloud Practitioner Course/IAM/IAM Roles.md",
+    "AWS Cloud Practitioner Course/IAM/Configuring AWS CLI.md",
+    "AWS Cloud Practitioner Course/IAM/IAM Security Tools.md",
+    "AWS Cloud Practitioner Course/IAM/Creating IAM Roles.md",
+    "AWS Cloud Practitioner Course/IAM/CloudShell.md",
     "AWS Cloud Practitioner Course/IAM/AWS Access Keys, CLI, and SDK.md",
     "AWS Cloud Practitioner Course/IAM/IAM MFA Overview.md",
     "AWS Cloud Practitioner Course/IAM/IAM Policies.md",
     "AWS Cloud Practitioner Course/IAM/IAM Introduction.md",
     "AWS Cloud Practitioner Course/IAM/Creating Access Keys.md",
     "AWS Cloud Practitioner Course/IAM/Best Practices.md",
-    "AWS Cloud Practitioner Course/IAM/Configuring AWS CLI.md",
     "Untitled",
     "Untitled.canvas",
     "AWS Cloud Practitioner Course/What is Cloud Computing/What is Cloud Computing.md",

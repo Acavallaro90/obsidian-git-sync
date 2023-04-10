@@ -1,0 +1,10 @@
+- Go to Roles
+- Select create role
+- Choose the trusted entity type
+- Choose the service the role will be for and select next
+- Assign permissions to that role
+- Enter the following information
+	- Role name
+	- Description
+	- Verify permissions
+- Select create role
