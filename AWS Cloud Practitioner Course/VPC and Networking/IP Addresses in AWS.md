@@ -1,0 +1,15 @@
+- Two kinds of IP addresses
+	- IPv4
+		- Internet Protocol version 4 (4.3 billion addresses)
+		- Public IPv4
+			- Can be used on the internet
+			- EC2 instance gets a new public IP address every time you stop then start the instance by default
+		- Private IPv4
+			- Can be used on private networks (LAN) such as internal AWS networking (e.g. 192.168.1.1)
+			- Private IPv4 is constant for EC2 instances even if you start/stop them
+	- IPv6
+		- Internet Protocol version 6 (3.4 * 10^38 addresses)
+		- Every IP address is public
+		- Example: 2001:db8:3333:4444:cccc:dddd:eeee:ffff
+- Elastic IP: allows you to attach a fixed public IPv4 address to an EC2 instance
+	- Note: has ongoing cost if not attached to EC2 instance or if the EC2 instance is stopped

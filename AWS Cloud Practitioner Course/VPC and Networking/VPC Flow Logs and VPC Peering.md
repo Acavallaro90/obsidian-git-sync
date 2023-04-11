@@ -1,0 +1,21 @@
+- VPC Flow Logs
+	- Capture information about IP traffic going into your interfaces
+		- VPC Flow Log
+		- Subnet Flow Log
+		- Elastic Network Interface Flow Log
+	- Helps to monitor and troubleshoot connectivity issues
+		- Subnets to internet
+		- Subnets to subnets
+		- Internet to subnets
+	- Captures network information from AWS managed interfaces too
+		- Elastic Load Balancers (ELB)
+		- ElastiCache
+		- RDS
+		- Aurora
+	- VPC Flow Logs data can go to S3, CloudWatch Logs, and Kinesis Data Firehose
+- VPC Peering
+	- Connect two VPCs privately using AWS' network
+	- Make them behave as if they were in the same network
+	- Need to make sure the VPC CIDR ranges do not overlap
+	- VPC Peering connection is not transitive (must be established for each VPC that need to communicate with one another)
+		- If VPC A and VPC B are joined via VPC Peering, VPC A and VPC C are joined via VPC Peering, VPC C cannot access VPC B through VPC A

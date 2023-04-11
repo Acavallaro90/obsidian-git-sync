@@ -1,0 +1,17 @@
+- Site to Site VPN
+	- Connect an on premises VPN to AWS
+	- The connection is automatically encrypted
+	- Goes over the public internet
+	- Simple, fast to setup
+	- Some concerns with bandwidth and security concerns even though it is encrypted
+		- Concerns stem from being transmitted over the public internet
+	- On-premises: must use a Customer Gateway
+	- AWS: must use a Virtual Private Gateway
+	- Connection goes as follows:
+		- Data center -> Customer Gateway -> Site to Site VPN -> Virtual Private Gateway (in VPC) -> EC2 instance (in private subnet)
+- Direct Connect (DX)
+	- Establishes a physical connection between on-premises and AWS
+	- The connection is private, secure, and fast
+	- Goes over the private network
+	- Much more expensive
+	- Takes at least a month to establish

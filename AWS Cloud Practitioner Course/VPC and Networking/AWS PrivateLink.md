@@ -1,0 +1,5 @@
+- Most secure and scalable way to expose an AWS service to 1000s of VPCs
+	- Better than VPC peering
+- Does not require VPC peering, internet gateway, NAT, or route tables
+- Requires a network load balancer (Service VPC) and ENI (Customer VPC)
+- The side with a load balancer connect to the ENI and with that creates an AWS PrivateLink between their load balancer and your ENI

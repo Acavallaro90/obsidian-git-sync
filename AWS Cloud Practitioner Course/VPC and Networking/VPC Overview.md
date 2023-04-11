@@ -1,0 +1,15 @@
+- VPC = Virtual Private Cloud
+- Something you should know in depth for the AWS Certified Solutions Architect Associate and AWS Certified SysOps Administrator
+- At the AWS Certified Cloud Practioner level, you should know about
+	- VPC
+	- Subnets
+	- Internet Gateways
+	- NAT Gateways
+	- Security Groups
+	- Network ACL (NACL)
+	- VPC Flow Logs
+	- VPC Peering
+	- VPC Endpoints
+	- Site to Site VPN
+	- Direct Connect
+	- Transit Gateway
