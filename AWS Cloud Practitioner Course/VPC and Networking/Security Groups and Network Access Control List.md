@@ -1,0 +1,26 @@
+- Network Access Control List (NACL)
+	- A firewall which controls traffic from and to a subnet
+	- Can have ALLOW and DENY rules
+	- Are attached at the subnet level
+	- Rules only include IP addresses
+- Security Groups
+	- A firewall that controls traffic to and from an ENI or EC2 instance
+		- ENI: Elastic Network Interface
+	- Can have only ALLOW rules
+	- Rules include IP addresses and other security groups
+- Differences between the two
+	- NACL is at the subnet level
+	- Security groups are at the EC2 instance level inside the subnet
+- Complete set of differences
+	- Security Groups
+		- Operates at the instance level
+		- Supports allow rules only
+		- Is stateful; return traffic is automatically allowed, regardless of any rules
+		- We evaluate all rules before deciding whether to allow traffic
+		- Applies to an instance only if someone specifies the security group when launching the instance, or associates the security group with the instance later on
+	- Network ACL
+		- Operates at the subnet level
+		- Supports allow and deny rules
+		- Is stateless; return traffic must be explicitly allowed by rules
+		- We process rules in number order when deciding whether to allow traffic
+		- Automatically applies to all instances in the subnets it's associated with (therefore, you don't have to rely on users to specify the security group)
