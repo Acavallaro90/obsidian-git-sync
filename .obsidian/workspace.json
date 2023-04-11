@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8e74ba5fe011383d",
+        "id": "ff0fc3f195b33f36",
         "type": "tabs",
         "children": [
           {
-            "id": "e14e3c44635dda0d",
+            "id": "ac065a76e09dcf98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Cloud Practitioner Course/EC2 Instance Storage/EBS Overview.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner Course/EC2 Instance Storage/EBS Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner Course/EC2 Instance Storage/EBS Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AWS Cloud Practitioner Course/EC2 Instance Storage/EBS Overview.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,22 +138,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e14e3c44635dda0d",
+  "active": "ac065a76e09dcf98",
   "lastOpenFiles": [
-    "AWS Cloud Practitioner Course/EC2/Summary.md",
+    "AWS Cloud Practitioner Course/VPC and Networking/IP Addresses in AWS.md",
+    "AWS Cloud Practitioner Course/VPC and Networking/VPC Overview.md",
+    "AWS Cloud Practitioner Course/EC2/Introduction to Security Groups.md",
+    "AWS Cloud Practitioner Course/VPC and Networking",
+    "AWS Cloud Practitioner Course/EC2/EC2 Instance Roles.md",
     "AWS Cloud Practitioner Course/EC2 Instance Storage/EBS Overview.md",
+    "AWS Cloud Practitioner Course/EC2/Summary.md",
     "AWS Cloud Practitioner Course/EC2 Instance Storage",
     "AWS Cloud Practitioner Course/EC2/Shared Responsibility Model for EC2.md",
     "AWS Cloud Practitioner Course/EC2/EC2 Instance Purchasing Options.md",
     "Pasted image 20230410161329.png",
     "Pasted image 20230410160741.png",
     "AWS Cloud Practitioner Course/What is Cloud Computing/AWS Cloud Overview.md",
-    "AWS Cloud Practitioner Course/EC2/EC2 Instance Roles.md",
     "AWS Cloud Practitioner Course/EC2/EC2 Instance Connect.md",
     "AWS Cloud Practitioner Course/EC2/Setting Up SSH.md",
     "AWS Cloud Practitioner Course/EC2/Creating an EC2 Instance With EC2 User Data.md",
     "AWS Cloud Practitioner Course/EC2/EC2 Instance Types Basics.md",
-    "AWS Cloud Practitioner Course/EC2/Introduction to Security Groups.md",
     "AWS Cloud Practitioner Course/EC2/SSH Overview.md",
     "Pasted image 20230410143350.png",
     "Pasted image 20230410140958.png",
@@ -180,8 +175,6 @@
     "AWS Cloud Practitioner Course/IAM/CloudShell.md",
     "AWS Cloud Practitioner Course/IAM/Configuring AWS CLI.md",
     "AWS Cloud Practitioner Course/IAM/AWS Access Keys, CLI, and SDK.md",
-    "AWS Cloud Practitioner Course/IAM/IAM MFA Overview.md",
-    "AWS Cloud Practitioner Course/IAM/IAM Policies.md",
     "Untitled.canvas",
     "AWS Cloud Practitioner Course/What is Cloud Computing",
     "AWS Cloud Practitioner Course/IAM",
