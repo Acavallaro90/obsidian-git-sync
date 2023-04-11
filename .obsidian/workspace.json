@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8e74ba5fe011383d",
+        "id": "c0d3f880b1250981",
         "type": "tabs",
         "children": [
           {
-            "id": "e14e3c44635dda0d",
+            "id": "ac4237d376976144",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Cloud Practitioner Course/EC2 Instance Storage/EBS Overview.md",
+                "file": "AWS Cloud Practitioner Course/EC2/EC2 Instance Purchasing Options.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26490b422e99748a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Cloud Practitioner Course/Test/Test Note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner Course/EC2 Instance Storage/EBS Overview.md",
+                "file": "AWS Cloud Practitioner Course/Test/Test Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner Course/EC2 Instance Storage/EBS Overview.md",
+                "file": "AWS Cloud Practitioner Course/Test/Test Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner Course/EC2 Instance Storage/EBS Overview.md"
+                "file": "AWS Cloud Practitioner Course/Test/Test Note.md"
               }
             }
           }
@@ -146,43 +159,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e14e3c44635dda0d",
+  "active": "26490b422e99748a",
   "lastOpenFiles": [
-    "AWS Cloud Practitioner Course/EC2/Summary.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/EBS Overview.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage",
-    "AWS Cloud Practitioner Course/EC2/Shared Responsibility Model for EC2.md",
     "AWS Cloud Practitioner Course/EC2/EC2 Instance Purchasing Options.md",
+    "AWS Cloud Practitioner Course/Test/Test Note.md",
+    "AWS Cloud Practitioner Course/Test",
+    "AWS Cloud Practitioner Course/EC2/EC2 Instance Connect.md",
+    "AWS Cloud Practitioner Course/EC2/Summary.md",
+    "AWS Cloud Practitioner Course/EC2/Shared Responsibility Model for EC2.md",
+    "AWS Cloud Practitioner Course/IAM/IAM Introduction.md",
     "Pasted image 20230410161329.png",
     "Pasted image 20230410160741.png",
-    "AWS Cloud Practitioner Course/What is Cloud Computing/AWS Cloud Overview.md",
-    "AWS Cloud Practitioner Course/EC2/EC2 Instance Roles.md",
-    "AWS Cloud Practitioner Course/EC2/EC2 Instance Connect.md",
     "AWS Cloud Practitioner Course/EC2/Setting Up SSH.md",
-    "AWS Cloud Practitioner Course/EC2/Creating an EC2 Instance With EC2 User Data.md",
-    "AWS Cloud Practitioner Course/EC2/EC2 Instance Types Basics.md",
     "AWS Cloud Practitioner Course/EC2/Introduction to Security Groups.md",
-    "AWS Cloud Practitioner Course/EC2/SSH Overview.md",
-    "Pasted image 20230410143350.png",
-    "Pasted image 20230410140958.png",
-    "Pasted image 20230410140601.png",
-    "CallMiner AWS RM Dev Environment",
-    "AWS Cloud Practitioner Course/IAM/IAM Roles.md",
-    "AWS Cloud Practitioner Course/IAM/Creating IAM Roles.md",
-    "AWS Cloud Practitioner Course/IAM/IAM Security Tools.md",
-    "AWS Cloud Practitioner Course/IAM/Summary.md",
-    "AWS Cloud Practitioner Course/IAM/Shared Responsibility Model for IAM.md",
-    "AWS Cloud Practitioner Course/IAM/Best Practices.md",
-    "AWS Cloud Practitioner Course/EC2/AWS Budget Setup.md",
+    "AWS Cloud Practitioner Course/EC2/EC2 Instance Types Basics.md",
+    "AWS Cloud Practitioner Course/EC2/EC2 Instance Roles.md",
     "AWS Cloud Practitioner Course/EC2/EC2 Basics.md",
+    "AWS Cloud Practitioner Course/EC2/Creating an EC2 Instance With EC2 User Data.md",
+    "AWS Cloud Practitioner Course/EC2/AWS Budget Setup.md",
     "AWS Cloud Practitioner Course/EC2",
-    "AWS Cloud Practitioner Course/IAM/Creating Access Keys.md",
-    "AWS Cloud Practitioner Course/IAM/CloudShell.md",
-    "AWS Cloud Practitioner Course/IAM/Configuring AWS CLI.md",
-    "AWS Cloud Practitioner Course/IAM/AWS Access Keys, CLI, and SDK.md",
-    "AWS Cloud Practitioner Course/IAM/IAM MFA Overview.md",
-    "AWS Cloud Practitioner Course/IAM/IAM Policies.md",
+    "AWS Cloud Practitioner Course/EC2 Instance Storage/EBS Overview.md",
+    "AWS Cloud Practitioner Course/EC2 Instance Storage",
     "Untitled.canvas",
+    "AWS Cloud Practitioner Course/What is Cloud Computing/What is Cloud Computing.md",
+    "AWS Cloud Practitioner Course/What is Cloud Computing/Types of Cloud Computing.md",
+    "AWS Cloud Practitioner Course/What is Cloud Computing/Computing Basics.md",
+    "AWS Cloud Practitioner Course/What is Cloud Computing/AWS Cloud Overview.md",
     "AWS Cloud Practitioner Course/What is Cloud Computing",
     "AWS Cloud Practitioner Course/IAM",
     "AWS Cloud Practitioner Course"
