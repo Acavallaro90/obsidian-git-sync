@@ -1,0 +1,17 @@
+- EBS Snapshots
+	- Make a backup (snapshot) of your EBS volume at a point in time
+	- Not necessary to detach the volume to do a snapshot but it is recommended
+	- Benefit of a snapshot is that they can be copied across Availability Zones or Regions
+	- Basic overview
+		- Detach EBS volume from EC2 instance
+		- Snapshot the EBS volume
+		- Re-attach to the EC2 instance
+		- Use the snapshot to restore another EBS volume to the same state as the other in a different region or AZ
+- Features
+	- EBS Snapshot Archive
+		- Move a snapshot to an Archive tier that is 75% cheaper
+		- Takes 24 to 72 hours to restore from this tier
+	- Recycle Bin
+		- Setup rules to retain deleted Snapshots so you can recover them after an accidental deletion
+		- By default, there is no recycle bin
+		- Specify the retention period from 1 day to 1 year

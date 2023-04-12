@@ -1,0 +1,23 @@
+- Navigate to the EC2 Image Builder service
+- Select Create Image Pipeline
+- Give it a name and description
+- Choose a schedule if you would like one
+	- Manual would be best probably
+- Select Next
+- Use an existing or create a new recipe for the image
+- If creating a new recipe
+	- Choose if it will be an AMI to be produced or a Docker Image to be produced
+	- Name the recipe and give it a version
+	- Select your base image
+		- Custom AMI or AWS AMI
+	- Choose your components
+		- Go
+		- Putty
+		- PowerShell
+		- DotNet
+		- Python
+		- Chocolatey
+	- Order the installation process of the components selected
+	- Choose test components if desired
+	- Create a role for EC2 Image Builder Service to access and create Infrastructure
+		- Permissions needed are in the step

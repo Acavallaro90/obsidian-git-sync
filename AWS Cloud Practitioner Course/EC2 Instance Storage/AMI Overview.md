@@ -1,0 +1,16 @@
+- AMI
+	- Amazon Machine Image
+	- A customization of an EC2 Instance
+	- You add your own software, configuration, Operating System, Monitoring, etc.
+	- Faster boot/configuration time because all of your software is pre-packaged
+	- Built for a specific region (can be copied across regions)
+	- You can launch EC2 instances from
+		- Public AMI (AWS provided)
+		- Your own AMI (made and maintained by you)
+		- AWS Marketplace AMI (an AMI made by someone else)
+- AMI process
+	- Start an EC2 instance
+	- Customize it
+	- Stop the EC2 instance (for data integrity)
+	- Build an AMI (also creates EBS Snapshot)
+	- Launch instance from other AMIs

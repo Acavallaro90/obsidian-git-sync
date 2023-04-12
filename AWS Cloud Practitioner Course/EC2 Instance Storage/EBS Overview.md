@@ -1,1 +1,24 @@
-- 
+- EBS Volume
+	- Elastic Block Store
+	- A network drive you can attach to your instances while they run
+	- It allows your instances to persist data even after their termination
+	- They can only be mounted to one instance at a time
+	- They are bound to a specific availability zone
+		- You cannot attach an EBS in us-east-1 to a us-east-2 EC2 instance
+		- You cannot attach an EBS in us-east-1a to a us-east-1b EC2 instance
+	- Basically think of them as network "USB Sticks"
+	- A network drive (not a physical drive)
+		- It uses the network to communicate with the instance, which means there might be a bit of latency
+	- It can be detached from an EC2 instance and attached to another EC2 instance quickly
+	- Super handy for failover type scenarios
+	- Locked to an Availability Zone
+		- Bypass is to create a snapshot and then you can move it from availability zones
+	- Has a provisioned capacity
+		- Size in GB or TB
+		- I/O operations per second
+		- You get billed for the provisioned capacity
+		- You can increase the capacity of the drive over time
+	- Delete on termination attribute
+		- Controls the behavior of an EBS volume when an EC2 instance is terminated
+		- By default, the root EBS is deleted on termination
+		- By default, any other attached EBS is not deleted on termination

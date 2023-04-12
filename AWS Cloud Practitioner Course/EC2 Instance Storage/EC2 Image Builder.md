@@ -1,0 +1,10 @@
+- Used to automate the creation of virtual machines or container images
+- Automate the creation, maintainence, validation, and testing of EC2 AMIs
+- Process
+	- EC2 Image Builder service creates an EC2 Builder Instance
+	- Customize components/software on instance
+	- AMI is created from this instance
+	- A Test EC2 instance will be made from the AMI and a test suite will be ran on it
+		- Tests are skippable
+	- AMI is distributed
+	- Free service but you pay for the EC2 instances and storage created during these steps

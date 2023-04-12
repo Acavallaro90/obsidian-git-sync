@@ -1,0 +1,22 @@
+- From the volumes section, select the volume you want a snapshot of
+- From the Actions drop down menu, select Create Snapshot
+- Give a description for the snapshot and click Create Snapshot
+- You can find your snapshots on the left-hand side under Snapshots
+- To copy a snapshot
+	- Right click on the snapshot you want to copy
+	- Select Copy Snapshot
+	- Select a region/availability zone for the snapshot to be copied to
+- To create a volume from a snapshot
+	- Click on the snapshot you want to use to restore a new volume
+	- From the Actions drop down menu, select Create Volume From Snapshot
+	- Choose the type of volume
+	- Choose the size of the volume
+	- Choose the AZ
+- To create a recycle bin
+	- From the snapshots page, select Recycle Bin in the top right-hand corner
+	- Choose Create Retention Rule
+	- Give it a name and description
+	- Resource type will be EBS Snapshots
+	- Select Apply to All Resources
+	- Select how long you want to keep the snapshots in the recycle bin
+	- Choose to lock or unlock the recycle bin for modification/deletion

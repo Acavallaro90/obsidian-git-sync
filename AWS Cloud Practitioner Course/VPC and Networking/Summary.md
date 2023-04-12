@@ -1,1 +1,45 @@
-- 
+- VPC
+	- Virtual Private Cloud
+- Subnets
+	- Exist within a VPC
+	- Tied to an Availability Zone
+	- A network partition of a VPC
+- Internet Gateway
+	- At the VPC level
+	- Provides internet access to public subnets
+- NAT Gateway/Instances
+	- Gives internet access to private subnets
+	- Setup in public subnet and routes the private subnet to the Gateway which is then routed to the Internet Gateway
+- NACL
+	- Network Access Control List
+	- Stateless
+	- Firewall for subnets for inbound and outbound traffic
+	- Have access and deny rules
+	- Operate at the subnet level
+- Security Groups
+	- Stateful
+	- Firewall for EC2 instances for inbound and outbound traffic
+	- Have access only rules
+	- Operate at the EC2 or ENI level
+- VPC Peering
+	- Connect two VPC with non-overlapping IP ranges
+	- Non-transitive
+- Elastic IP
+	- Fixed public IPv4 addresses
+	- Costs money if not in use
+- VPC Endpoints
+	- Provide private access to AWS services within your VPC
+- PrivateLink
+	- Privately connect to a service in a 3rd party VPC
+- VPC Flow Logs
+	- Network traffic flow logs
+- Site to Site VPN
+	- VPN over public internet between on-premises data center and AWS
+- Client VPN
+	- OpenVPN connection from your computer into your VPC
+- Direct Connect
+	- Direct, private connection to AWS
+	- Expensive
+	- Long time to setup
+- Transit Gateway
+	- Connect thousands of VPC and on-premises networks together
