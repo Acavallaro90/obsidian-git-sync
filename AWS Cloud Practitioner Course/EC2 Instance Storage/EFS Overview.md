@@ -1,0 +1,22 @@
+- EFS
+	- Elastic File System
+	- Managed Network File System (NFS) that can be mounted on 100s of EC2 instances
+	- Works only with Linux EC2 instances and across multiple AZs
+	- Highly available
+	- Scalable
+	- Expensive (3x gp2)
+	- Pay per use
+	- No capacity planning
+- EBS vs EFS
+	- EBS can only be applied to a single EC2 instance in a single AZ
+		- Snapshots can be made and copied over to create another EBS for another EC2 instance in another AZ
+	- EFS is a shared drive that all EC2 instances can use across all AZs
+		- No snapshots needed
+		- More expensive
+		- Uses an EFS Mount Target
+- EFS Infrequent Access (EFS-IA)
+	- Storage class that is cost-optimized for files that are not accessed every day
+	- Up to 92% lower cost compared to EFS Standard
+	- EFS will automatically move your files to EFS-IA based on the last time they were accessed
+	- A lifecycle policy is set to move these files based on the last read/write time on them
+		- If times passes the time set in the lifecycle policy, the files will be moved to EFS-IA

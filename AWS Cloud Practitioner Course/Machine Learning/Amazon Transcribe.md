@@ -1,0 +1,9 @@
+- Automatically convert speech to text
+- Uses a deep learning process called Automatic Speech Recognition (ASR) to convert speech to text quickly and accurately
+- Features
+	- Automatically remove Personally Identifiable Information (PII) using Redaction
+	- Supports automatic language identification for multi-lingual audios
+- Use cases
+	- Transcribe customer service calls
+	- Automate closed captioning and subtitling
+	- Generate metadata for media assets to create a fully searchable archive

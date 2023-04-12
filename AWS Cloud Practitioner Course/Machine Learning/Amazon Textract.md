@@ -1,0 +1,16 @@
+- Automatically extracts text, handwriting, and data from any scanned documents using artificial intelligence and machine learning
+- Extract data from forms and data
+- Read and process any type of document
+	- PDF
+	- Images
+- Use cases
+	- Financial services
+		- Invoices
+		- Financial reports
+	- Healthcare
+		- Medical records
+		- Insurance claims
+	- Publi sector
+		- Tax forms
+		- ID documents
+		- Passports

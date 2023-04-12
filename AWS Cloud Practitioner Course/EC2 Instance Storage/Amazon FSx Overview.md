@@ -1,0 +1,21 @@
+- Launch 3rd party high-performance file systems on AWS
+- Fully managed service
+- Three options
+	- FSx for Lustre
+	- FSx for Windows File Server
+	- FSx for NetApp ONTAP
+- FSx for Windows File Server
+	- A fully managed, highly reliable, and scalable Windows native shared file system
+	- Built on Windows File Server
+	- Supports SMB protocol and Windows NTFS
+	- Integrated with Microsoft Active Directory
+	- Can be accessed from AWS or on-premises infrastructure
+- FSx for Lustre
+	- A fully managed, high-performance, scalable file storage for High Performance Computing instances
+	- The name Lustre is derived from Linux and Cluster
+	- Good for
+		- Machine Learning
+		- Analytics
+		- Video processing
+		- Financial modeling
+	- Scales up to 100s of GB/s, millions of IOPS (I/O operations per second), sub-millisecond latency

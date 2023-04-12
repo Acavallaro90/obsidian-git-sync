@@ -1,0 +1,19 @@
+- Amazon Rekognition
+	- Used to find the following in images videos using Machine Learning
+		- Objects
+		- People
+		- Text
+		- Scenes
+	- Can do facial analysis and facial search to do user verification or people counting
+	- Creates a database of "familiar faces" or compare against celebrities
+	- Use cases
+		- Labeling
+		- Content moderation
+		- Text detection
+		- Face detection and analysis
+			- Gender
+			- Age range
+			- Emotions
+		- Face search and verification
+		- Celebrity recognition
+		- Pathing (for sports game analysis)

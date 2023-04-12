@@ -1,1 +1,10 @@
-- 
+- EBS volumes are network drives with "good" but limited performance
+- If you need a high-performance hardware disk, use EC2 Instance Store
+- Pros
+	- Better I/O performance
+	- Good for buffer/cache/scratch data/temporary content
+- Cons
+	- EC2 Instance Store lose their storage if they're stopped (ephemeral)
+	- Not good for long-term storage
+	- Risk of data loss if hardware fails
+	- Backup and replication are your responsibility

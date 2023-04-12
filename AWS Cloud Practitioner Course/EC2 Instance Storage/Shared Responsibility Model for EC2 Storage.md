@@ -1,0 +1,13 @@
+- AWS responsibility
+	- Infrastructure
+	- Replication of data for EBS volumes and EFS drives
+		- If hardware were to fail, AWS should have a backup ready so that the user does not lose their data
+	- Replacing faulty hardware
+	- Ensuring AWS employees cannot access your data
+- Your responsibility
+	- Setting up backup/snapshot procedures
+	- Setting up data encryption
+	- Responsible for any data that is on the drives
+		- It is your data
+	- Understanding the risk of using the EC2 Instance Store
+		- Can lose the data under certain conditions

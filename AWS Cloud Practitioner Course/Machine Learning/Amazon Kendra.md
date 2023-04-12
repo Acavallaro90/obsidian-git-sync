@@ -1,0 +1,11 @@
+- Fully managed document search service powered by machine learning
+- Extract answers from within a document
+	- Text
+	- PDF
+	- HTML
+	- PowerPoint
+	- Microsoft Word
+	- FAQs
+- Natural language search capabilities
+- Learn from user interactions/feedback to promote preferred results (incremental learning)
+- Ability to manually fine-tune search results (importance of data, freshness, custom, etc.)
