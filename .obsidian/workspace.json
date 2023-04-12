@@ -4,155 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1c7e1486e8d9b432",
+        "id": "595d9c4ea30b3f84",
         "type": "tabs",
         "children": [
           {
-            "id": "685f8aa63694c012",
+            "id": "5212d0511440bbc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Cloud Practitioner Course/EC2 Instance Storage/Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20db1426f4d388a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Cloud Practitioner Course/Machine Learning/Amazon Rekognition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecdc58de5de2c31b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Cloud Practitioner Course/Machine Learning/Amazon Transcribe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87d003eb9d4834f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Cloud Practitioner Course/Machine Learning/Amazon Polly.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "301a7d51ef6fc0ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Cloud Practitioner Course/Machine Learning/Amazon Translate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4c011699e8801db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Cloud Practitioner Course/Machine Learning/Amazon Lex and Connect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "699ddec8dfb87a6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Cloud Practitioner Course/Machine Learning/Amazon Comprehend.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6120ee8d977eb0d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Cloud Practitioner Course/Machine Learning/Amazon SageMaker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ada54ce2c85f06a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Cloud Practitioner Course/Machine Learning/Amazon Forecast.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5300a5bdbe449ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Cloud Practitioner Course/Machine Learning/Amazon Kendra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "973e842579d58227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Cloud Practitioner Course/Machine Learning/Amazon Personalize.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dc3a7df062e6201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Cloud Practitioner Course/Machine Learning/Amazon Lex and Connect.md",
+                "file": "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Creating a Load Balancer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -218,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Machine Learning/Amazon Lex and Connect.md",
+                "file": "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Creating a Load Balancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Machine Learning/Amazon Lex and Connect.md",
+                "file": "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Creating a Load Balancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Machine Learning/Amazon Lex and Connect.md"
+                "file": "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Creating a Load Balancer.md"
               }
             }
           }
@@ -279,52 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dc3a7df062e6201",
+  "active": "714ebe08bb6f596b",
   "lastOpenFiles": [
-    "AWS Cloud Practitioner Course/Machine Learning/Amazon Rekognition.md",
+    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Elastic Load Balancing (ELB) Overview.md",
+    "Images/Pasted image 20230412110051.png",
+    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Creating a Load Balancer.md",
+    "Images/Pasted image 20230412105721.png",
+    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/High Availability, Scalability, and Elasticity.md",
+    "AWS Cloud Practitioner Course/VPC and Networking/AWS Client VPN.md",
+    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups",
+    "Images/Pasted image 20230411175053.png",
+    "AWS Cloud Practitioner Course/Machine Learning/Amazon Translate.md",
     "AWS Cloud Practitioner Course/Machine Learning/Amazon Transcribe.md",
     "AWS Cloud Practitioner Course/Machine Learning/Amazon Textract.md",
+    "AWS Cloud Practitioner Course/Machine Learning/Amazon SageMaker.md",
+    "AWS Cloud Practitioner Course/Machine Learning/Amazon Rekognition.md",
+    "AWS Cloud Practitioner Course/Machine Learning/Amazon Polly.md",
     "AWS Cloud Practitioner Course/Machine Learning/Amazon Personalize.md",
+    "AWS Cloud Practitioner Course/Machine Learning/Amazon Lex and Connect.md",
     "AWS Cloud Practitioner Course/Machine Learning/Amazon Kendra.md",
     "AWS Cloud Practitioner Course/Machine Learning/Amazon Forecast.md",
-    "AWS Cloud Practitioner Course/Machine Learning/Amazon SageMaker.md",
     "AWS Cloud Practitioner Course/Machine Learning/Amazon Comprehend.md",
-    "AWS Cloud Practitioner Course/Machine Learning/Amazon Lex and Connect.md",
-    "AWS Cloud Practitioner Course/Machine Learning/Amazon Translate.md",
-    "AWS Cloud Practitioner Course/Machine Learning/Amazon Polly.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/Summary.md",
     "AWS Cloud Practitioner Course/Machine Learning",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/EFS Overview.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/Amazon FSx Overview.md",
+    "AWS Cloud Practitioner Course/EC2 Instance Storage/Summary.md",
     "AWS Cloud Practitioner Course/EC2 Instance Storage/Shared Responsibility Model for EC2 Storage.md",
+    "AWS Cloud Practitioner Course/EC2 Instance Storage/EFS Overview.md",
     "AWS Cloud Practitioner Course/EC2 Instance Storage/EC2 Instance Store.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/Creating an AMI Using EC2 Image Builder.md",
     "AWS Cloud Practitioner Course/EC2 Instance Storage/EC2 Image Builder.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/Creating an AMI.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/AMI Overview.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/Creating a Snapshot.md",
     "AWS Cloud Practitioner Course/EC2 Instance Storage/EBS Snapshots Overview.md",
     "AWS Cloud Practitioner Course/EC2 Instance Storage/Creating and Attaching EBS Volumes.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/EBS Overview.md",
-    "AWS Cloud Practitioner Course/VPC and Networking/Summary.md",
-    "AWS Cloud Practitioner Course/VPC and Networking/Security Groups and Network Access Control List.md",
-    "Images/Pasted image 20230411175053.png",
-    "Images/Pasted image 20230411094516.png",
-    "Images/Pasted image 20230410161329.png",
-    "Images/Pasted image 20230410140958.png",
-    "Images/Pasted image 20230410160741.png",
+    "AWS Cloud Practitioner Course/EC2 Instance Storage/Creating an AMI.md",
+    "AWS Cloud Practitioner Course/EC2 Instance Storage/Creating an AMI Using EC2 Image Builder.md",
+    "AWS Cloud Practitioner Course/EC2 Instance Storage/Creating a Snapshot.md",
+    "AWS Cloud Practitioner Course/VPC and Networking/Untitled",
     "Images/Pasted image 20230410143350.png",
-    "Images/Pasted image 20230410140601.png",
     "Images",
-    "AWS Cloud Practitioner Course/VPC and Networking",
-    "AWS Cloud Practitioner Course/Test",
-    "Pasted image 20230410161329.png",
-    "Pasted image 20230410160741.png",
-    "AWS Cloud Practitioner Course/EC2",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage",
+    "Untitled 1.canvas",
     "Untitled.canvas",
+    "Images/Pasted image 20230411094516.png",
+    "AWS Cloud Practitioner Course/VPC and Networking",
+    "AWS Cloud Practitioner Course/EC2 Instance Storage",
+    "Images/Pasted image 20230410161329.png",
+    "Images/Pasted image 20230410160741.png",
+    "Images/Pasted image 20230410140958.png",
+    "Images/Pasted image 20230410140601.png",
+    "CallMiner AWS RM Dev Environment",
+    "AWS Cloud Practitioner Course/EC2",
     "AWS Cloud Practitioner Course/What is Cloud Computing",
-    "AWS Cloud Practitioner Course/IAM",
-    "AWS Cloud Practitioner Course"
+    "AWS Cloud Practitioner Course/IAM"
   ]
 }
