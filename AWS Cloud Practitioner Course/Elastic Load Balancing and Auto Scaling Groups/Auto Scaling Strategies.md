@@ -1,0 +1,13 @@
+- Manual scaling
+	- Update the size of an ASG manually
+- Dynamic scaling
+	- Respond to changing demand
+	- Simple/step scaling
+		- When a CloudWatch alarm is triggered (example CPU > 70%), then add 2 units
+		- When a CloudWatch alarm is triggered (example CPU < 30%), then remove 1 unit
+	- Target Tracking scaling
+		- Example: I want the average ASG CPU to stay at around 40%
+	- Scheduled scaling
+		- Anticipate a scaling based on known usage patterns
+	- Predicitive scaling
+		- Uses machine learning to predict future traffic ahead of time

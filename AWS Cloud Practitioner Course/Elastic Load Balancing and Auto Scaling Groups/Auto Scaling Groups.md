@@ -1,0 +1,16 @@
+- In real life, the load on your websites and applications can change
+- In the cloud, you can create and get rid of servers very quickly
+- The goal of an Auto Scaling Group is
+	- Scale out (add EC2 instances) to match an increased load
+	- Scale in (remove EC2 instances) to match a decreased load
+	- Ensure we have a minimum and a maximum number of machines running
+	- Automatically register new instances to a load balancer
+	- Replace unhealthy instances
+- Cost savings because you run at an optimal capacity at all times (principle of the cloud)
+- Three settings for auto scaling groups
+	- Minimum size
+		- Fewest number of EC2 instances allowed
+	- Actual/desired size
+		- Actual state
+	- Maximum size
+		- Most number of EC2 instances allowed
