@@ -1,0 +1,11 @@
+- Kinesis
+	- Real-time big data streaming
+	- Managed service to collect, process, and analyze real-time streaming data at any scale
+	- Kinesis Data Streams
+		- Low latency streaming to ingest data at scale from hundreds of thousands of sources
+	- Kinesis Data Firehose
+		- Load streams into S3, Redshift, ElasticSearch, etc.
+	- Kinesis Data Analytics
+		- Perform real-time analytics on streams using SQL
+	- Kinesis Video Streams
+		- Monitor real-time video streams for analytics or machine learning

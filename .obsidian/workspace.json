@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9939b9993d32c12f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Summary.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,12 +159,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "714ebe08bb6f596b",
+  "active": "9939b9993d32c12f",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Summary.md",
+    "conflict-files-obsidian-git.md",
+    "AWS Cloud Practitioner Course/Global Infrastructure/Global Applications.md",
+    "AWS Cloud Practitioner Course/Global Infrastructure",
+    "AWS Cloud Practitioner Course/Cloud Integrations/SQS Overview.md",
+    "AWS Cloud Practitioner Course/Cloud Integrations/SNS Overview.md",
+    "AWS Cloud Practitioner Course/Cloud Integrations/MQ Overview.md",
+    "AWS Cloud Practitioner Course/Cloud Integrations/Kinesis Overview.md",
+    "AWS Cloud Practitioner Course/Cloud Integrations/Cloud Integrations Overview.md",
+    "AWS Cloud Practitioner Course/Cloud Integrations",
+    "AWS Cloud Practitioner Course/Advanced Identity/Security Token Service.md",
+    "AWS Cloud Practitioner Course/Advanced Identity/Amazon Cognito.md",
+    "AWS Cloud Practitioner Course/Advanced Identity/Directory Services.md",
+    "AWS Cloud Practitioner Course/Advanced Identity/AWS IAM Identity Center.md",
+    "AWS Cloud Practitioner Course/Advanced Identity",
     "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Creating a Load Balancer.md",
     "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Auto Scaling Groups.md",
     "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Auto Scaling Strategies.md",
-    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Summary.md",
     "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Elastic Load Balancing (ELB) Overview.md",
     "Images/Pasted image 20230412110051.png",
     "Images/Pasted image 20230412105721.png",
@@ -167,18 +194,7 @@
     "AWS Cloud Practitioner Course/Machine Learning/Amazon Polly.md",
     "AWS Cloud Practitioner Course/Machine Learning/Amazon Personalize.md",
     "AWS Cloud Practitioner Course/Machine Learning/Amazon Lex and Connect.md",
-    "AWS Cloud Practitioner Course/Machine Learning/Amazon Kendra.md",
-    "AWS Cloud Practitioner Course/Machine Learning/Amazon Forecast.md",
-    "AWS Cloud Practitioner Course/Machine Learning/Amazon Comprehend.md",
     "AWS Cloud Practitioner Course/Machine Learning",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/Summary.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/Shared Responsibility Model for EC2 Storage.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/EFS Overview.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/EC2 Instance Store.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/EC2 Image Builder.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/EBS Snapshots Overview.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/Creating and Attaching EBS Volumes.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/Creating an AMI.md",
     "AWS Cloud Practitioner Course/VPC and Networking/Untitled",
     "Images/Pasted image 20230410143350.png",
     "Images",
@@ -191,9 +207,6 @@
     "Images/Pasted image 20230410160741.png",
     "Images/Pasted image 20230410140958.png",
     "Images/Pasted image 20230410140601.png",
-    "CallMiner AWS RM Dev Environment",
-    "AWS Cloud Practitioner Course/EC2",
-    "AWS Cloud Practitioner Course/What is Cloud Computing",
-    "AWS Cloud Practitioner Course/IAM"
+    "CallMiner AWS RM Dev Environment"
   ]
 }

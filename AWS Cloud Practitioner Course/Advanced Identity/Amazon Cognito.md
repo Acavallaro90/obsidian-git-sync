@@ -1,0 +1,5 @@
+- A way to provide identity for your web and mobile application users (potentially millions)
+- You should not create IAM users for these, you instead create a user in Cognito
+- It writes to a database for users
+- Allows for integration between services
+	- Login with Google or Facebook, for example

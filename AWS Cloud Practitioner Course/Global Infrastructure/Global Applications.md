@@ -1,0 +1,34 @@
+- Global application
+	- An application deployed in multiple geographies
+	- This could be regions and/or edge locations
+	- Pros
+		- Decreased latency
+			- Latency is the time it takes for a network packet to reach a server
+			- It takes time for a packet from Asia to reach the United States
+			- Deploy your applications closer to your users to decrease latency and provide a better experience
+		- Disaster recovery
+			- If an AWS region goes down (natural disaster, politics, etc.)
+			- You can fail-over to another region and have your application still working
+			- A disaster recovery plan is important to increase the availability of your application
+		- Attack protection
+			- Distributed global infrastructure is harder to attack
+- Regions
+	- For deploying applications and infrastructure
+	- Made of Availability Zones
+- Availability Zones
+	- Made up of multiple data centers
+- Edge Locations (Points of Presence)
+	- For content delivery as close as possible to users
+- Route 53
+	- For Global DNS
+	- Great to route users to the closest deployment with least latency
+	- Great for disaster recovery strategies
+- CloudFront
+	- For Global Content Delivery Network (CDN)
+	- Replicate part of your application to AWS Edge Locations
+	- Decrease latency
+	- Cache common requests to improve user experience and decrease latency
+- S3 Transfer Acceleration
+	- Accelerate global uploads and downloads into Amazon S3
+- AWS Global Accelerator
+	- Improve global application availability and performance using the AWS global network
