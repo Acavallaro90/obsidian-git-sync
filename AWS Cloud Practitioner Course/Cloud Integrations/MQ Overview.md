@@ -1,0 +1,6 @@
+- Amazon MQ
+	- A managed message broker service for
+		- Rabbit MQ
+		- Active MQ
+	- Doesn't scale as much as SNS or SQS
+	- Has to run on EC2 instances ($)

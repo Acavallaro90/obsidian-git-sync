@@ -1,0 +1,12 @@
+- When we start deploying multiple applications, they will inevitably need to communicate with one another
+- Two types of patterns for application communication
+	- Synchronous communication
+		- Application to application
+		- Can be problematic if there are sudden spikes of traffic
+		- Example: what if you need to suddenly encode 1000 videos but usually its 10?
+			- In that case, it's better to decouple your applications using
+				- SQS queue model
+				- SNS pub/sub model
+				- Kinesis real time data streaming model
+	- Asynchronous communication/event based
+		- Application to queue to application

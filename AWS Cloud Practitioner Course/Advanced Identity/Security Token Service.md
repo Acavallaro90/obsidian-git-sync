@@ -1,0 +1,10 @@
+- AWS Security Token Service (STS)
+	- Enables you to create temporary, limited-privileges credentials to access your AWS resources
+	- Short term credentials
+		- You configure expiration period
+- Use cases
+	- Identity federation
+		- Manage user identities in external systems and provide them with STS tokens to access AWS resources
+	- IAM roles for cross/same account access
+	- IAM role for Amazon EC2
+		- Provide temporary credentials for EC2 instances to access AWS resources
