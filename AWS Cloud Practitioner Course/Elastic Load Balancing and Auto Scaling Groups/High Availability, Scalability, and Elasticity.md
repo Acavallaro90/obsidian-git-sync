@@ -1,0 +1,31 @@
+- Scalability
+	- Means than an application/system can handle greater loads by adapting
+	- Two kinds of scalability
+		- Vertical
+		- Horizontal (elasticity)
+	- Vertical scalability
+		- Means increasing the size of the instance
+			- Scaling from a t2.micro to a t2.xlarge, for example
+		- Very common for non-distributed systems such as a database
+		- There's usually a limit to how much you can vertically scale (hardware limit)
+	- Horizontal scalability
+		- Means increasing the number of instances/systems for your application
+		- Implies distributed systems
+		- Very common for web applications/modern applications
+		- Easy to horizontally scale thanks to the cloud offerings such as Amazon EC2
+		- Uses Auto Scaling Groups and Load Balancers
+- High Availability
+	- Goes hand in hand with horizontal scaling
+	- Means running your application/system in at least 2 AZs
+	- The goal of high availability is to survive a data center loss (disaster)
+- Formal definitions
+	- Scalability
+		- The ability to accomodate a larger load by making the hardware stronger (vertical) or by adding nodes (horizontal)
+	- Elasticity
+		- Once a system is scalable, elasticity means that there will be some "auto-scaling" so that the system can scale based on the load
+		- This is "cloud-friendly"
+		- Pay-per-use
+		- Match demand
+		- Optimize costs
+	- Agility
+		- New IT resources are only a click away, which means that you reduce the time to make those resources available to your developers from weeks to just minutes

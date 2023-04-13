@@ -1,0 +1,44 @@
+- Load balancers are servers that forward internet traffic to multiple servers (EC2 instances) downstream
+- Spread load across multiple downstream instances
+- Expose a single point of access (DNS) to your application
+- Seamlessly handle failures of downstream instances
+- Do regular health checks to your instances
+	- Unhealthy instances will not get traffic sent to them
+- Provide SSL termination (HTTPS) for your websites
+- High availibility across zones
+- Elastic Load Balancer (ELB)
+	- An AWS managed load balancer
+	- AWS guarantees that it will be working
+	- AWS takes care of
+		- Upgrades
+		- Maintenance
+		- High availability
+	- AS provides only a few configuration knobs
+		- What you need to configure is minimal
+	- It costs less to setup your own load balancer, but it will be a lot more effort on your end (maintenance, integrations)
+- Four kinds of load balancers offered by AWS
+	- Application Load Balancer (HTTP/HTTPS only)
+		- Layer 7
+		- Keywords
+			- HTTP
+			- HTTPS
+			- gRPC
+			- HTTP routing features
+			- Static DNS (URL)
+	- Network Load Balancer (ultra-high performance, allows for TCP)
+		- Layer 4
+		- Keywords
+			- TCP
+			- UDP
+			- High performance (millions of requests per second)
+			- Static IP through Elastic IP
+	- Gateway Load Balancer
+		- Layer 3
+		- Keywords
+			- GENEVE on IP packets
+			- Route traffic to firewalls that you manage on EC2 instances
+			- Intrusion detection
+	- Classic Load Balancer (retired in 2023)
+		- Layer 4 and 7
+![[Pasted image 20230412105721.png]]
+![[Pasted image 20230412110051.png]]

@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "d59ddab0c55cbf41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Machine Learning/Amazon Lex and Connect.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Machine Learning/Amazon Lex and Connect.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Machine Learning/Amazon Lex and Connect.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -142,8 +155,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "714ebe08bb6f596b",
+  "active": "d59ddab0c55cbf41",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Images/Pasted image 20230412110051.png",
+    "Images/Pasted image 20230412105721.png",
+    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/High Availability, Scalability, and Elasticity.md",
+    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Elastic Load Balancing (ELB) Overview.md",
+    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Creating a Load Balancer.md",
+    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups",
     "AWS Cloud Practitioner Course/Machine Learning/Amazon Rekognition.md",
     "AWS Cloud Practitioner Course/Machine Learning/Amazon Transcribe.md",
     "AWS Cloud Practitioner Course/Machine Learning/Amazon Textract.md",
@@ -167,10 +187,6 @@
     "AWS Cloud Practitioner Course/EC2 Instance Storage/AMI Overview.md",
     "AWS Cloud Practitioner Course/EC2 Instance Storage/Creating a Snapshot.md",
     "AWS Cloud Practitioner Course/EC2 Instance Storage/EBS Snapshots Overview.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/Creating and Attaching EBS Volumes.md",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/EBS Overview.md",
-    "AWS Cloud Practitioner Course/VPC and Networking/Summary.md",
-    "AWS Cloud Practitioner Course/VPC and Networking/Security Groups and Network Access Control List.md",
     "Images/Pasted image 20230411175053.png",
     "Images/Pasted image 20230411094516.png",
     "Images/Pasted image 20230410161329.png",
@@ -182,7 +198,6 @@
     "AWS Cloud Practitioner Course/VPC and Networking",
     "AWS Cloud Practitioner Course/Test",
     "Pasted image 20230410161329.png",
-    "Pasted image 20230410160741.png",
     "AWS Cloud Practitioner Course/EC2",
     "AWS Cloud Practitioner Course/EC2 Instance Storage",
     "Untitled.canvas",

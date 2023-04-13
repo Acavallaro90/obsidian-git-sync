@@ -1,0 +1,18 @@
+- Under EC2 main menu, choose Load Balancers from the left-hand side
+- Choose Create Load Balancer
+- Choose the load balancer type
+- Give the load balancer a name
+- Choose whether the load balancer is internal or external facing
+	- Internal is used by internal people only
+	- External is used by external internet traffic
+		- Requires a public subnet
+- Choose the availability zones the load balancer will be for
+- Assign a security group to the load balancer
+	- Should create a new security group (one that only allows HTTP/HTTPS traffic and not SSH)
+- Listeners listen on the protocol and port selected
+	- HTTP = 80
+	- HTTPS = 443
+- Routing to a target group
+	- The traffic comes in on HTTP/HTTPS and the listener forwards (routes) the traffic to the target group
+	- We need to create a target group
+		- The target group is just a group of instances that the load balance will route traffic to
