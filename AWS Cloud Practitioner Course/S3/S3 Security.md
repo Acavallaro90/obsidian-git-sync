@@ -1,0 +1,22 @@
+- User-based
+	- IAM policies attached to users
+		- Which API calls should be allowed for a specific user from IAM
+- Resource-based
+	- Bucket policies
+		- Bucket wide rules from the S3 console
+		- Allows cross account access
+		- Most common
+	- Object Access Control List (ACL)
+		- Finer grain
+		- Can be disabled
+	- Bucket Access Control List (ACL)
+		- Less common
+		- Can be disabled
+- An IAM principal can access an S3 object if
+	- The user IAM permissions allow it
+	- OR
+	- The resources policy allows it
+	- AND
+	- There's no explicit deny
+- Encryption
+	- Encrypt objects in Amazon S3 using encryption keys

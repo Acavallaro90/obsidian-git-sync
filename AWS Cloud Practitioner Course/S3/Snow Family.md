@@ -1,0 +1,6 @@
+- Highly-securable, portable devices to collect and process data at the edge and migrate data into and out of AWS
+- Use cases
+	- Data migration
+		- Snowcone
+		- Snowball Edge
+		- Snowmobile

@@ -1,0 +1,9 @@
+- AWS DataSync
+	- Move large amounts of data from on-premises to AWS
+	- Can synchronize to
+		- Amazon S3
+			- Any storage classes including Glacier
+		- Amazon EFS
+		- Amazon FSx for Windows
+	- Replication tasks can be scheduled hourly, daily, or weekly
+	- The replication tasks are incremental after the first full load

@@ -1,0 +1,10 @@
+- A fully managed service for running fault injection experiments on AWS workloads
+- Based on chaos engineering
+	- Stressing an application by creating disruptive events (sudden increase in CPU or RAM), observing how the system responds, and implementing improvements
+- Helps you uncover hidden bugs and performance bottlenecks
+- Supports the following AWS services
+	- EC2
+	- EKS
+	- RDS
+	- Etc
+- Use pre-built templates that generate the desired disruptions

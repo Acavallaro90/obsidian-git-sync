@@ -1,0 +1,15 @@
+- To enable asynchronous replication from one bucket to another bucket in the same or different region
+	- Must enable versioning in source and destination buckets
+	- Cross-Region Replication (CRR)
+	- Same-Region Replication (SRR)
+	- Buckets can be in different AWS accounts
+- Copying is asynchronous (behind the scenes)
+- Must give proper IAM permissions to S3
+- Use cases
+	- CRR
+		- Compliance
+		- Lower latency access
+		- Replication across accounts
+	- SRR
+		- Log aggregation
+		- Live replication between production and test accounts

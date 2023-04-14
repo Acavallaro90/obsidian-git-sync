@@ -1,0 +1,8 @@
+- Amazon WorkSpaces
+	- Managed Desktop as a Service (DaaS) solution to easily provision Windows or Linux desktops
+	- Greate to eliminate management of on-premise VDI (Virtual Desktop Infrastructure)
+	- Fast and quickly scalable to thousands of users
+	- Secured data
+		- Integrates with KMS
+	- Pay-as-you-go service with monthly or hourly rates
+	- Place the workspaces location in a region closest to your users

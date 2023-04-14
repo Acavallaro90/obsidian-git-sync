@@ -1,0 +1,14 @@
+- Scalable 2-way (inbound/outbound) marketing communications service
+- Supports
+	- Email
+	- SMS
+	- Push
+	- Voice
+	- In-app messaging
+- Ability to segment and personalize messages with the right content to customers
+- Possibility to receive replies
+- Scales to billions of message per day
+- Use cases
+	- Run campaigns by sending marketing
+	- Bulk
+	- Transactional SMS messages

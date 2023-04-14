@@ -1,0 +1,58 @@
+- S3 Storage Classes
+	- Amazon S3 Standard - General Purpose
+		- 99.99% availability
+		- Used for frequently accessed data
+		- Low latency and high throughput
+		- Sustain 2 concurrent facility failures
+		- Use cases
+			- Big data analytics
+			- Mobile applications
+			- Gaming applications
+			- Content distribution
+	- Amazon S3 Standard - Infrequent Access (IA)
+		- For data that is less frequently accessed but requires rapid access when needed
+		- Lower cost than S3 Standard
+		- 99.9% availability
+		- Use cases
+			- Disastery recovery
+			- Backups
+	- Amazon S3 One Zone - Infrequent Access
+		- High durability (99.999999999%) in a single AZ
+		- Data lost when AZ is destroyed
+		- 99.5% availability
+		- Use cases
+			- Storing secondary backup copies of on-premises data
+			- Data you can recreate
+	- Amazon S3 Glacier Instant Retrieval
+		- Millisecond retrieval
+		- Great for data accessed once a quarter
+		- Minimum storage duration is 90 days
+	- Amazon S3 Glacier Flexible Retrieval
+		- Expedited (1 to 5 minutes)
+		- Standard (3 to 5 hours)
+		- Bulk (5 to 12 hours)
+			- Free
+		- Minimum storage duration of 90 days
+	- Amazon S3 Glacier Deep Archive
+		- Standard (12 hours) 
+		- Bulk (48 hours)
+		- Minimum storage duration of 180 days
+	- Amazon S3 Intelligent Tiering
+		- Small monthly monitoring and auto-tiering fee
+		- Moves objects automatically between access tiers based on usage
+		- There are no retrieval charges
+		- Frequent access tier is the default tier
+		- Infrequent access tier for objects not accessed for 30 days
+		- Archive instant access tier for objects not accessed for 90 days
+		- Archive access tier is optional for objects not accessed from 90 to 700+ days
+		- Deep archive access tier is optional for objects not accessed from 180 to 700+ days
+- Can move between classes manually or using S3 Lifecycle configurations
+- Durability
+	- High durability (99.99999999999%) of objects across multiple AZs
+	- If you store 10,000,000 objects with Amazon S3, you can on average expect to incur a loss of a single object once every 10,000 years
+	- Same for all storage classes
+- Availability
+	- Measures how readily available a service is
+	- Varies depending on storage class
+	- Example: S3 standard has 99.99% availability
+		- Not available for 53 minutes a year

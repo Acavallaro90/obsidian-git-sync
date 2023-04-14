@@ -1,0 +1,2 @@
+- Other services represent services I couldn't group with the other ones
+- They are services reported by students as sometimes, but rarely, appearingon the AWS exam

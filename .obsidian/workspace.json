@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "55bedeb1ca33a34c",
+        "id": "2a1897e28cdbae73",
         "type": "tabs",
         "children": [
           {
-            "id": "62114216a9e929f9",
+            "id": "040e65259056af19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Summary.md",
+                "file": "AWS Cloud Practitioner Course/S3/Encryption.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9939b9993d32c12f",
+            "id": "5fe8d9e2f3b91f4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "AWS Cloud Practitioner Course/S3/Shared Responsibility Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b311e97fea7a0657",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Cloud Practitioner Course/S3/Snow Family.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "AWS Cloud Practitioner Course/S3/Snow Family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "AWS Cloud Practitioner Course/S3/Snow Family.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "AWS Cloud Practitioner Course/S3/Snow Family.md"
               }
             }
           }
@@ -159,41 +171,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9939b9993d32c12f",
+  "active": "b311e97fea7a0657",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner Course/S3/Shared Responsibility Model.md",
+    "AWS Cloud Practitioner Course/S3/Snow Family.md",
+    "AWS Cloud Practitioner Course/S3/Encryption.md",
+    "AWS Cloud Practitioner Course/S3/S3 Storage Classes.md",
+    "AWS Cloud Practitioner Course/S3/S3 Overview.md",
+    "AWS Cloud Practitioner Course/S3/S3 Replication.md",
+    "AWS Cloud Practitioner Course/S3/S3 Versioning.md",
+    "AWS Cloud Practitioner Course/S3/S3 Bucket Policies.md",
+    "AWS Cloud Practitioner Course/S3/S3 Security.md",
+    "AWS Cloud Practitioner Course/Other Services/Pinpoint Overview.md",
+    "AWS Cloud Practitioner Course/S3",
+    "AWS Cloud Practitioner Course/Other Services/Ground Station Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/Fault Injection Simulator.md",
+    "AWS Cloud Practitioner Course/Other Services/AWS Elastic Disaster Recovery (DRS).md",
+    "AWS Cloud Practitioner Course/Other Services/DataSync Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/Disaster Recovery Strategies.md",
+    "AWS Cloud Practitioner Course/Other Services/Backup Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/Device Farm Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/AppSync Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/Amplify Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/IoT Core Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/Elastic Transcoder Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/AppStream 2.0 Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/WorkSpaces Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/Other AWS Services.md",
     "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Summary.md",
+    "AWS Cloud Practitioner Course/Other Services",
     "conflict-files-obsidian-git.md",
-    "AWS Cloud Practitioner Course/Global Infrastructure/Global Applications.md",
     "AWS Cloud Practitioner Course/Global Infrastructure",
-    "AWS Cloud Practitioner Course/Cloud Integrations/SQS Overview.md",
-    "AWS Cloud Practitioner Course/Cloud Integrations/SNS Overview.md",
-    "AWS Cloud Practitioner Course/Cloud Integrations/MQ Overview.md",
-    "AWS Cloud Practitioner Course/Cloud Integrations/Kinesis Overview.md",
-    "AWS Cloud Practitioner Course/Cloud Integrations/Cloud Integrations Overview.md",
     "AWS Cloud Practitioner Course/Cloud Integrations",
-    "AWS Cloud Practitioner Course/Advanced Identity/Security Token Service.md",
-    "AWS Cloud Practitioner Course/Advanced Identity/Amazon Cognito.md",
-    "AWS Cloud Practitioner Course/Advanced Identity/Directory Services.md",
-    "AWS Cloud Practitioner Course/Advanced Identity/AWS IAM Identity Center.md",
     "AWS Cloud Practitioner Course/Advanced Identity",
-    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Creating a Load Balancer.md",
-    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Auto Scaling Groups.md",
-    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Auto Scaling Strategies.md",
-    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Elastic Load Balancing (ELB) Overview.md",
     "Images/Pasted image 20230412110051.png",
     "Images/Pasted image 20230412105721.png",
-    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/High Availability, Scalability, and Elasticity.md",
-    "AWS Cloud Practitioner Course/VPC and Networking/AWS Client VPN.md",
     "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups",
     "Images/Pasted image 20230411175053.png",
-    "AWS Cloud Practitioner Course/Machine Learning/Amazon Translate.md",
-    "AWS Cloud Practitioner Course/Machine Learning/Amazon Transcribe.md",
-    "AWS Cloud Practitioner Course/Machine Learning/Amazon Textract.md",
-    "AWS Cloud Practitioner Course/Machine Learning/Amazon SageMaker.md",
-    "AWS Cloud Practitioner Course/Machine Learning/Amazon Rekognition.md",
-    "AWS Cloud Practitioner Course/Machine Learning/Amazon Polly.md",
-    "AWS Cloud Practitioner Course/Machine Learning/Amazon Personalize.md",
-    "AWS Cloud Practitioner Course/Machine Learning/Amazon Lex and Connect.md",
     "AWS Cloud Practitioner Course/Machine Learning",
     "AWS Cloud Practitioner Course/VPC and Networking/Untitled",
     "Images/Pasted image 20230410143350.png",
@@ -202,11 +216,9 @@
     "Untitled.canvas",
     "Images/Pasted image 20230411094516.png",
     "AWS Cloud Practitioner Course/VPC and Networking",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage",
     "Images/Pasted image 20230410161329.png",
     "Images/Pasted image 20230410160741.png",
     "Images/Pasted image 20230410140958.png",
-    "Images/Pasted image 20230410140601.png",
-    "CallMiner AWS RM Dev Environment"
+    "Images/Pasted image 20230410140601.png"
   ]
 }

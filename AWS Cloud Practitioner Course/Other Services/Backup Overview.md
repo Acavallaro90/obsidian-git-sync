@@ -1,0 +1,9 @@
+- AWS Backup
+	- Fully-managed service to centrally manage and automate backups across AWS services
+	- On-demand and scheduled backups
+	- Supports Point-In-Time-Recovery (PITR)
+	- Retention periods
+	- Lifecycle management
+	- Backup policies
+	- Cross-region backup
+	- Cross-account backup (using AWS Organizations)

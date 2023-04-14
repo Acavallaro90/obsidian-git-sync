@@ -1,0 +1,12 @@
+- AWS IoT
+	- Internet of Things
+	- The network of internet-connected devices that are able to collect and transfer data
+	- Allows you to easily connect IoT devices to the AWS Cloud
+	- Serverless, secure, and scalable to billions of devices and trillions of messages
+	- Your applications can communicate with your devices even when they are not connected
+	- Integrates with a lot of AWS services
+		- Lambda
+		- S3
+		- SageMaker
+		- Etc.
+	- Build IoT applications that gather, process, analyze, and act on data

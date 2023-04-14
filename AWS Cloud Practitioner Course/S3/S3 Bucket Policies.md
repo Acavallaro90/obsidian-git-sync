@@ -1,0 +1,15 @@
+- JSON based policies
+	- Resources
+		- Buckets
+		- Objects
+	- Effect
+		- Allow
+		- Deny
+	- Actions
+		- Set of API to allow or deny
+	- Principal
+		- The account or user to apply the policy to
+- Use S3 bucket policy to
+	- Grant public access to the bucket
+	- Force objects to be encrypted at upload
+	- Grant access to another account (cross account)

@@ -1,0 +1,15 @@
+- AWS responsibility
+	- Infrastructure
+		- Globale security
+		- Durability
+		- Availability
+		- Able to sustain concurrent loss of data in two facilities
+	- Configuration and vulnerability analysis
+	- Compliance validation
+- User responsibility
+	- S3 versioning
+	- S3 bucket policies
+	- S3 replication setup
+	- Logging and monitoring
+	- S3 storage classes
+	- Data encryption at rest and in transit

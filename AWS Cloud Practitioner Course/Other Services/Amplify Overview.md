@@ -1,0 +1,16 @@
+- AWS Amplify
+	- A set of tools and services that helps you develop and deploy scalable full stack web and mobile applications
+	- Can handle the following
+		- Authentication
+		- Storage
+		- API requests
+			- REST
+			- GarphQL
+		- CI/CD
+		- Pub/Sub
+		- Analytics
+		- Artificial intelligence
+		- Machine learning
+		- Monitoring
+		- Source code from AWS or GitHub
+	- Uses other AWS services in the backend to do all of the above

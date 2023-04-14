@@ -1,0 +1,13 @@
+- Cheapest
+	- Backup and restore
+	- Data is backed up in the cloud in an S3 bucket and then restored
+- More expensive
+	- Pilot Light
+	- Core functions of the app (database)
+	- Ready to scale, but minimal setup
+- More expensive
+	- Warm standby
+	- Full version of the application ready but at a minimum size
+- Most expensive
+	- Multi-site/Hot-site
+	- Full version of the application ready and at full size ready to go

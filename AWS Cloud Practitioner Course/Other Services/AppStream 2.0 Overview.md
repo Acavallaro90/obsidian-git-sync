@@ -1,0 +1,13 @@
+- Amazon AppStream 2.0
+	- Desktop Application streaming service
+	- Delivery to any computer, without acquiring pr provisioning infrastructure
+	- The application is delivered from within a web browser
+- WorkSpaces vs AppStream 2.0
+	- WorkSpaces
+		- Fully managed VDI and desktop available
+		- The user connected to the VDI and open native or WAM applications
+		- WorkSpaces are on-demand or always on
+	- AppStream 2.0
+		- Stream a desktop applicaiton to web browsers (no need to connect to a VDI)
+		- Works with any device (that has a web browser)
+		- Allow to configure an instance type per application type (CPU, RAM, GPU)
