@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Cloud Integrations/SQS Overview.md",
+                "file": "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodeStar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb275905d5f937ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/Cloud9.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Cloud Integrations/SQS Overview.md",
+                "file": "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/Cloud9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Cloud Integrations/SQS Overview.md",
+                "file": "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/Cloud9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Cloud Integrations/SQS Overview.md"
+                "file": "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/Cloud9.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7eaeb4e6ba2dc6f",
+  "active": "eb275905d5f937ec",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodeStar.md",
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/Cloud9.md",
+    "AWS Cloud Practitioner Course/Cloud Integrations/SQS Overview.md",
     "AWS Cloud Practitioner Course/Cloud Integrations/SNS Overview.md",
     "AWS Cloud Practitioner Course/Cloud Integrations/MQ Overview.md",
     "AWS Cloud Practitioner Course/Cloud Integrations/Kinesis Overview.md",
@@ -158,7 +174,6 @@
     "AWS Cloud Practitioner Course/Advanced Identity/Amazon Cognito.md",
     "Images/Pasted image 20230418102040.png",
     "Images/Pasted image 20230418101739.png",
-    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodeStar.md",
     "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodeArtifact.md",
     "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodePipeline.md",
     "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodeDeploy.md",
@@ -175,8 +190,6 @@
     "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale.md",
     "AWS Cloud Practitioner Course/Cloud Monitoring/CloudWatch Logs.md",
     "AWS Cloud Practitioner Course/Cloud Monitoring/EventBridge.md",
-    "AWS Cloud Practitioner Course/Cloud Monitoring/CloudWatch Metrics and Alarms.md",
-    "AWS Cloud Practitioner Course/Databases/DynamoDB.md",
     "AWS Cloud Practitioner Course/Cloud Monitoring",
     "AWS Cloud Practitioner Course/Databases",
     "AWS Cloud Practitioner Course/Other Compute Services",

@@ -1,2 +1,3 @@
 - Unified UI to easily manage software development activities in one place
 - "Quick way" to get started correctly to setup with CodeCommit, CodePipeline, CodeDeploy, CodeBuild, Elastic Beanstalk, EC2, etc.
+- Can edit the code "in-the-cloud" using AWS Cloud9
