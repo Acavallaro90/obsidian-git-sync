@@ -1,0 +1,14 @@
+- Service Health Dashboard
+	- Shows all regions and all the services health
+	- Shows historical information for each day
+	- Has an RSS feed you can subscribe to
+	- Previously called AWS Service Health Dashboard
+- Account Health Dashboard
+	- Previously called AWS Personal Health Dashboard
+	- AWS Account Health Dashboard provides alerts and remediation guidance when AWS is experiencing events that may impact you
+	- While the Service Health Dashboard displays the general status of AWS services, Account Health Dashboard gives you a personalized view into the performance and availability of the AWS services underlying your AWS resources
+	- The dashboard displays relevant and timely information to help you manage events in progress and provides proactive notifications to help you plan for scheduled activities
+	- Can aggregate data from an entire AWS organization
+	- Global service
+	- Shows how AWS outages directly impact you and your AWS resources
+	- Alert, remediation, proactive, scheduled activities

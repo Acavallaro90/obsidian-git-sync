@@ -1,0 +1,3 @@
+- A way to make a DynamoDB table accessible with low latency in mulitple regions
+- Uses 2 way replication between the regions
+- Active-active replication (read/write to any AWS region)

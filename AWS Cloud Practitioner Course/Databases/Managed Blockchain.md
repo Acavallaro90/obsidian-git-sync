@@ -1,0 +1,5 @@
+- Makes it possible to build applications where multiple parties can execute transactions without the need for a trusted, central authority
+- A managed service to
+	- Join public blockchain networks
+	- Create your own scalable private network
+- Compatible with the frameworks Hyperledger Fabric and Ethereum

@@ -1,0 +1,16 @@
+- EMR
+	- Elastic MapReduce
+	- Helps creating Hadoop clusters (big data) to analyze and process vast amounts of data
+	- The clusters can be made of hundreds of EC2 instances
+	- Supports the following
+		- Apache Spark
+		- HBase
+		- Presto
+		- Flink
+	- Takes care of all the provisioning and configuration
+	- Auto-scaling and integrated with spot instances
+	- Use cases
+		- Data processing
+		- Machine learning
+		- Web indexing
+		- Big data

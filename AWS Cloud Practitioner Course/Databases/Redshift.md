@@ -1,0 +1,13 @@
+- Based on PostgreSQL but uits not used for Online Transaction Processing (OLTP)
+- It's OLAP
+	- Online Analytical Processing
+	- Analytics and data warehousing
+- Load data once every hour, not every second
+- 10x better performance than other data warehouses
+- Scales to PBs of data
+- Columnar storage of data (instead of row based)
+- Massively Parallel Query Execution (MPP)
+- Highly available
+- Pay as you go based on the instances provisioned
+- Has a SQL interface for performing the queries
+- BI tools such as AWS Quicksight or Tableau can integrate with it

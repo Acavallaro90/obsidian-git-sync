@@ -1,0 +1,38 @@
+- Relational databases
+	- RDS
+	- Aurora
+- In-memory databases
+	- ElastiCache
+- Key/value databases
+	- DynamoDB (serverless)
+	- DAX (cache for DynamoDB)
+- Warehouse
+	- Redshift (SQL)
+- Hadoop cluster
+	- EMR
+- Athena
+	- Query data on Amazon S3
+		- Serverless
+		- SQL
+- Quicksight
+	- Dashboards on your data
+	- Serverless
+- DocumentDB
+	- MongoDB
+	- JSON
+	- NoSQL database
+- QLDB
+	- Financial Transactions Ledger
+	- Centralized
+- Managed Blockchain
+	- Blockchain
+	- Decentralized
+- Glue
+	- ETL
+		- Extract
+		- Transform
+		- Load
+- Database migration
+	- DMS
+- Graph database
+	- Neptune

@@ -1,0 +1,14 @@
+- A software development platform to deploy applications
+- Applications are packaged in containers that can be run on any Operating System
+- Applications run the same, regardless of where they are run
+	- Any machine
+	- No compatibility issues
+	- Predictable behavior
+	- Less work
+	- Easier to maintain and deploy
+	- Works with any programming language
+	- Works with any Operating System
+	- Works with any technology
+- Scale containers up and down very quickly (seconds)
+- Docker images are stored in Docker repositories
+	- Also stored in ECR

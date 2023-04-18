@@ -1,0 +1,21 @@
+- Debugging in production, the good old way
+	- Test locally
+	- Add log statements everywhere
+	- Re-deploy in production
+	- Log formats differ across applications
+	- Log analysis is hard
+- Debugging
+	- One big monolith = "easy"
+	- Distributed services = "hard"
+- No common views of your entire architecture
+- X-Ray
+	- Visual analysis of your applications
+	- Advantages
+		- Troubleshooting performance (bottlenecks)
+		- Understand dependencies in a microservice architecture
+		- Pinpoint service issues
+		- Review request behavior
+		- Find errors and exceptions
+		- Are we meeting time SLA?
+			- Service License Agreement
+		- Identify users that are impacted

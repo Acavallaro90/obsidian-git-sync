@@ -1,0 +1,9 @@
+- Fully managed service for developers to easily create, publish, maintain, monitor and secure APIs
+- Serverless and scalable
+- Supports RESTful APIs and WebSockets APIs
+- Support for
+	- Security
+	- User authentication
+	- API throttling
+	- API keys
+	- Monitoring

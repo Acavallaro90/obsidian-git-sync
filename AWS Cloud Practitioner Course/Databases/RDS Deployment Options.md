@@ -1,0 +1,16 @@
+- Read replicas
+	- Scale the read workload of your database
+		- Creates replicas of the RDS database so that more reads can be made by your applications
+		- Can create up to 15 read replicas
+	- Data is only written to the main database
+- Multi-AZ
+	- Failover in case of AZ outage (high availability)
+	- Replication made across AZs
+	- Data is only read/written to the main database
+	- Can only have 1 other AZ as failover
+- Multi-region
+	- Same as multi-AZ but with regions
+	- Applications in other regions read from the replica in the region it's in but writes to the main database
+	- Disaster recovery in case of region issue
+	- Local performance for global reads
+	- Replication cost associated with this
