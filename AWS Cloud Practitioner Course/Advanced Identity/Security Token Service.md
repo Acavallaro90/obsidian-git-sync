@@ -8,3 +8,4 @@
 	- IAM roles for cross/same account access
 	- IAM role for Amazon EC2
 		- Provide temporary credentials for EC2 instances to access AWS resources
+![[Pasted image 20230418102040.png]]

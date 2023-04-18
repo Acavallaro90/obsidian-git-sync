@@ -13,3 +13,4 @@
 - This is what shows me the different environments in the cloud
 	- CallMiner Admin Network
 	- JPMC-DEV
+![[Pasted image 20230418101739.png]]

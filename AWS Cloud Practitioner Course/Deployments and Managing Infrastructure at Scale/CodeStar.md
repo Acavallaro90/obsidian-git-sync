@@ -1,0 +1,2 @@
+- Unified UI to easily manage software development activities in one place
+- "Quick way" to get started correctly to setup with CodeCommit, CodePipeline, CodeDeploy, CodeBuild, Elastic Beanstalk, EC2, etc.
