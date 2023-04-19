@@ -1,0 +1,8 @@
+- Users that are new to AWS have too many options and may create stacks that are not compliant/in line with the rest of the organization
+- Some users just want a quick self-service portal to launch a set of authorized products pre-defined by admins
+- Includes
+	- Virtual machines
+	- Databases
+	- Storage options
+	- Etc.
+- 

@@ -1,0 +1,58 @@
+- AWS has four pricing models
+	- Pay as you go
+		- Pay for what you use
+		- Remain agile
+		- Responsive
+		- Meet scale demands
+	- Save when you reserve
+		- Minimize risks
+		- Predictably manage budgets
+		- Comply with long-term requirements
+			- Reservations are available for
+				- EC2 Reserved Instances
+				- DynamoDB Reserved Capacity
+				- ElastiCache Reserved Nodes
+				- RDS Reserved Instance
+				- Redshit Reserved Nodes
+	- Pay less by using more
+		- Volume-based discounts
+	- Pay less as AWS grows
+- Free services and free tier
+	- IAM (free)
+	- VPC (free)
+	- Consolidated Billing (free)
+	- Elastic Beanstalk (free but you pay for the resources created)
+	- CloudFormation (free but you pay for the resources created)
+	- Auto Scaling Groups (free but you pay for the resources created)
+	- Free tier: https://aws.amazon.com/free
+		- Always free
+			- 25 GB of storage with DynamoDB
+			- 1 million requests per month with Lambda
+			- 1 million publishes with SNS
+			- 10 custom metrics for CloudWatch
+			- Etc.
+- EC2 pricing
+	- Pay as you go model
+		- Only charged for what you use
+		- Minimum billing time of 60 seconds
+		- Pay per second for Linux/Windows
+		- Pay per hour for other Operating Systems
+		- Number of instances
+		- Instance configuration
+			- Physical capacity
+			- Region
+			- Operating System
+			- Software
+			- Instance type
+			- Instance size
+		- ELB running time and amount of data processed
+		- Detailed monitoring
+			- Setting monitoring to 1 minute instead of 5 minutes for CloudWatch
+	- Reserved model
+		- Up to 75% discount compared to on-demand on hourly rate
+		- 1 or 3 year commitment required
+		- More discounts if you pay early
+			- All up front
+			- Partial up front
+			- No up front
+		- 
