@@ -1,0 +1,8 @@
+- Easy way to setup and govern a secure and compliant mulit-account AWS environment using best practices
+- Benefits
+	- Automate the setup of your environment in a few clicks
+	- Automate ongoing policy management using guardrails
+	- Detect policy violations and remediate them
+	- Monitor compliance through an interactive dashboard
+- Runs on top of AWS Organizations
+	- It automatically sets up AWS Organizations to organize accounts and implement Service Control Policies
