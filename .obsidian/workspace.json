@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "20db671ab7727ed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Global Infrastructure/Route 53.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Global Infrastructure/Route 53.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Global Infrastructure/Route 53.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,10 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49ee5b6c8d451340",
+  "active": "20db671ab7727ed2",
   "lastOpenFiles": [
-    "AWS Cloud Practitioner Course/Global Infrastructure/CloudFront.md",
     "AWS Cloud Practitioner Course/Global Infrastructure/Route 53.md",
+    "conflict-files-obsidian-git.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Control Tower.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Organizations.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support",
+    "AWS Cloud Practitioner Course/Global Infrastructure/CloudFront.md",
     "AWS Cloud Practitioner Course/Global Infrastructure/S3 Transfer Acceleration.md",
     "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/OpsWorks.md",
     "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/SSM Sessions Manager.md",
@@ -173,10 +190,7 @@
     "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodeCommit.md",
     "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodeBuild.md",
     "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/Beanstalk.md",
-    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/Cloud Development Kit (CDK).md",
-    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CloudFormation.md",
     "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale",
-    "AWS Cloud Practitioner Course/Cloud Monitoring/CloudTrail.md",
     "AWS Cloud Practitioner Course/Cloud Monitoring",
     "AWS Cloud Practitioner Course/Databases",
     "AWS Cloud Practitioner Course/Other Compute Services",
@@ -187,7 +201,6 @@
     "AWS Cloud Practitioner Course/Advanced Identity",
     "Images/Pasted image 20230412110051.png",
     "Images/Pasted image 20230412105721.png",
-    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups",
     "Images/Pasted image 20230411175053.png",
     "Images/Pasted image 20230410143350.png",
     "Untitled 1.canvas",

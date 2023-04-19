@@ -1,0 +1,12 @@
+- Global service
+- Allows you to manage multiple AWS accounts
+- The main account is the master account
+	- Others are called child accounts
+- Cost benefits
+	- Consolidated billing across all accounts
+		- Single payment method
+	- Pricing benefits from aggregated usage
+		- Volume usage from EC2 and S3
+	- Pooling of reserved EC2 instances for optimal savings
+- API is available to automate AWS account creation
+- Restrict account privileges using Service Control Policies (SCP)
