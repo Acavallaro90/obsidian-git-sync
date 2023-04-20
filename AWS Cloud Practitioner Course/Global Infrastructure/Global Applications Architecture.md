@@ -1,0 +1,23 @@
+- Single Region + Single AZ
+	- No high availability
+	- No global latency
+	- Simple setup
+- Single Region + Multi AZ
+	- High availability
+	- No global latency
+	- Little more difficult
+- Multi Region + Multi AZ (1 AZ in each Region)
+	- Active-Passive
+	- 1 region is active
+		- Read/write
+	- 1 region is passive
+		- Read only
+	- Global reads' latency
+	- No global writes' latency
+	- More difficult
+- Multi Region + Multi AZ (1 AZ in each region)
+	- Active-Active
+	- Both regions are read/write
+	- Global reads' latency
+	- Global writes' latency
+	- More difficult

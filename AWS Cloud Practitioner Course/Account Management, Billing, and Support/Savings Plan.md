@@ -1,0 +1,30 @@
+- Commit a certain $ amount per hour for 1 or 3 years
+- Easiest way to setup long-term cmmitments on AWS
+- EC2 savings plan
+	- Up to 72% discount compared to on-demand
+	- Commit to usage of individual instance families in a region
+		- C5 instances
+		- M5 instances
+	- Regardless of
+		- AZ
+		- Size (m5.xl to m5.4xl)
+		- Operating System
+		- Tenancy
+	- All upfront
+	- Partial upfront
+	- No upfront
+- Compute savings plan
+	- Up to 66% discount compared to on-demand
+	- Regardless of
+		- EC2 instance families
+		- Region
+		- Size
+		- Operating System
+		- Tenancy
+		- Compute options
+			- EC2
+			- Fargate
+			- Lambda
+- Machine learning savings plan
+	- Setup from the AWS Cost Explorer console
+- Estimate pricing at https://aws.amazon.com/savingsplans/pricing

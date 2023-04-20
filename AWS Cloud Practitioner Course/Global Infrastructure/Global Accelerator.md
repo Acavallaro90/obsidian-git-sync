@@ -1,0 +1,16 @@
+- Improve global application availability and performance using the AWS global network
+- Leverage the AWS internal network to optimize the route to your application (60% improvement)
+- Two Anycast IP addresses are created for your application and traffic is sent through Edge locations
+- Global accelerator vs CloudFront
+	- The both use the AWS global network and its edge locations around the worlds
+	- Both services integrate with AWS Shield for DDoS protection
+	- CloudFront
+		- Content Delivery Network (CDN)
+		- Improves performance for your cacheable content (such as images and videos)
+		- Content is served at the edge location since it is cached there
+	- Global accelerator
+		- No caching
+		- Proxying packages at the edge to applications running in one or more AWS regions
+		- Improves performance for a wide range of applications over TCP or UDP
+		- Good for HTTP use cases that require static IP addresses
+		- Good for HTTP use cases that require deterministic, fast regional failover

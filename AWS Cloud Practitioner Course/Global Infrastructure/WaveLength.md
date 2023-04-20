@@ -1,0 +1,17 @@
+- WaveLength Zones are infrastructure deployments embedded with the telecommunications providers' datacenters at the edge of the 5G networks
+- Brings AWS services to the edge of the 5G networks
+	- EC2
+	- EBS
+	- VPC
+	- Etc.
+- Ultra-low latency applications through 5G networks
+- Traffic doesn't leave the Communication Service Provider's (CSP) network
+- High-bandwidth and secure connection to the parent AWS region
+- No additional charge or service agreements
+- Use cases
+	- Smart cities
+	- Machine learning assisted diagnostics
+	- Connected vehicles
+	- Interactive live video streams
+	- AR/VR
+	- Real-time gaming

@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b13ce105e5b540a3",
+        "id": "2b9387df66e344cc",
         "type": "tabs",
         "children": [
           {
-            "id": "82103545529a7c2f",
+            "id": "0aa1c315b957d3e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Service Catalog.md",
+                "file": "AWS Cloud Practitioner Course/Global Infrastructure/Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8630fe7d232ec459",
+            "id": "0ba24c219e18f0e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Pricing Models.md",
+                "file": "AWS Cloud Practitioner Course/Architecting and Ecosystem/Ecosystem.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Pricing Models.md",
+                "file": "AWS Cloud Practitioner Course/Architecting and Ecosystem/Ecosystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Pricing Models.md",
+                "file": "AWS Cloud Practitioner Course/Architecting and Ecosystem/Ecosystem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Pricing Models.md"
+                "file": "AWS Cloud Practitioner Course/Architecting and Ecosystem/Ecosystem.md"
               }
             }
           }
@@ -159,55 +159,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8630fe7d232ec459",
+  "active": "0ba24c219e18f0e4",
   "lastOpenFiles": [
-    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Service Catalog.md",
-    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Pricing Models.md",
-    "AWS Cloud Practitioner Course/Global Infrastructure/Route 53.md",
-    "conflict-files-obsidian-git.md",
-    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Control Tower.md",
+    "AWS Cloud Practitioner Course/Global Infrastructure/Summary.md",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Ecosystem.md",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem",
+    "AWS Cloud Practitioner Course/Security and Compliance",
+    "AWS Cloud Practitioner Course/Global Infrastructure/Global Applications Architecture.md",
+    "AWS Cloud Practitioner Course/Global Infrastructure/Local Zones.md",
+    "AWS Cloud Practitioner Course/Global Infrastructure/WaveLength.md",
+    "AWS Cloud Practitioner Course/Global Infrastructure/Outposts.md",
     "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Organizations.md",
-    "AWS Cloud Practitioner Course/Account Management, Billing, and Support",
-    "AWS Cloud Practitioner Course/Global Infrastructure/CloudFront.md",
+    "AWS Cloud Practitioner Course/Global Infrastructure/Global Accelerator.md",
     "AWS Cloud Practitioner Course/Global Infrastructure/S3 Transfer Acceleration.md",
-    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/OpsWorks.md",
-    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/SSM Sessions Manager.md",
-    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/Systems Manager (SSM).md",
-    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodeStar.md",
-    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/Cloud9.md",
-    "AWS Cloud Practitioner Course/Cloud Integrations/SQS Overview.md",
-    "AWS Cloud Practitioner Course/Cloud Integrations/SNS Overview.md",
-    "AWS Cloud Practitioner Course/Cloud Integrations/MQ Overview.md",
-    "AWS Cloud Practitioner Course/Cloud Integrations/Kinesis Overview.md",
-    "AWS Cloud Practitioner Course/Cloud Integrations/Cloud Integrations Overview.md",
-    "AWS Cloud Practitioner Course/Advanced Identity/Security Token Service.md",
-    "AWS Cloud Practitioner Course/Advanced Identity/Directory Services.md",
-    "AWS Cloud Practitioner Course/Advanced Identity/AWS IAM Identity Center.md",
-    "AWS Cloud Practitioner Course/Advanced Identity/Amazon Cognito.md",
+    "AWS Cloud Practitioner Course/Global Infrastructure/CloudFront.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Billing Summary.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Account Best Practices Summary.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Tracking Costs in the Cloud.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Support Plan Pricing.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Trusted Advisor.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Service Quotas.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Cost Anomaly Detection.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Pricing Calculator.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Billing and Costing Tools.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Compute Optimizer.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Savings Plan.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Pricing Models.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Control Tower.md",
+    "AWS Cloud Practitioner Course/Global Infrastructure/Route 53.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Service Catalog.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support",
+    "AWS Cloud Practitioner Course/Other Compute Services/Amazon API Gateway.md",
+    "AWS Cloud Practitioner Course/Other Compute Services",
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale",
     "Images/Pasted image 20230418102040.png",
     "Images/Pasted image 20230418101739.png",
-    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodeArtifact.md",
-    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodePipeline.md",
-    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodeDeploy.md",
-    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodeCommit.md",
-    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale",
-    "AWS Cloud Practitioner Course/Cloud Monitoring",
-    "AWS Cloud Practitioner Course/Databases",
-    "AWS Cloud Practitioner Course/Other Compute Services",
     "AWS Cloud Practitioner Course/S3",
     "AWS Cloud Practitioner Course/Other Services",
-    "AWS Cloud Practitioner Course/Global Infrastructure",
-    "AWS Cloud Practitioner Course/Cloud Integrations",
+    "AWS Cloud Practitioner Course/Databases",
+    "AWS Cloud Practitioner Course/Cloud Monitoring",
     "AWS Cloud Practitioner Course/Advanced Identity",
     "Images/Pasted image 20230412110051.png",
     "Images/Pasted image 20230412105721.png",
     "Images/Pasted image 20230411175053.png",
-    "Images/Pasted image 20230410143350.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "Images/Pasted image 20230411094516.png",
     "Images/Pasted image 20230410161329.png",
+    "Images/Pasted image 20230410140958.png",
     "Images/Pasted image 20230410160741.png",
-    "Images/Pasted image 20230410140958.png"
+    "Images/Pasted image 20230410143350.png",
+    "Untitled.canvas"
   ]
 }

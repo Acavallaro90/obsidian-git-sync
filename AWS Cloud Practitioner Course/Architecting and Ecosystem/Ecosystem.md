@@ -1,0 +1,9 @@
+- Free resources
+	- AWS Blogs
+	- AWS Forums
+	- AWS Whitepapers
+	- AWS Guides
+	- AWS Quick Starts
+		- Automated, gold-standard deployments in the AWS Cloud
+		- Build your production environment quickly with templates
+		- Leverages CloudFormation
