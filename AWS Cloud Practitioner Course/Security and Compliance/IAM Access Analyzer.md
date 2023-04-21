@@ -1,0 +1,11 @@
+- Find out which resources are shared externally
+	- S3 Buckets
+	- IAM Roles
+	- KMS Keys
+	- Lambda Functions and Layers
+	- SQS Queues
+	- Secrets Manager Secrets
+- Define Zone of Trust
+	- AWS account
+	- AWS organization
+- Access outside Zone of Trust = bad

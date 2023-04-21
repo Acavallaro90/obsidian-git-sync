@@ -1,0 +1,11 @@
+- Central security tool to manage security across several AWS accounts and automate security checks
+- Integrated dashboards showing current security and compliance status to quickly take actions
+- Automatically aggregates alerts in predefined or personal findings formats from various AWS services and AWS partner tools
+	- GuardDuty
+	- Inspector
+	- Macie
+	- IAM Access Analyzer
+	- AWS Systems Manager
+	- AWS Firewall Manager
+	- AWS Partner Network Solutions
+- Must first enable the AWS Config service

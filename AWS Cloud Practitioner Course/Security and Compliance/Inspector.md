@@ -1,0 +1,12 @@
+- Automated security assessments
+- EC2 instances
+	- Leveraging the AWS System Manager (SSM) agent
+	- Analyze against unintended network accessibility
+	- Analyze the running Operating system against known vulnerabilities
+- ECR
+	- Assessment of container images as they are pushed
+- Lambda functions
+	- Identifies software vulnerabilities in function code and package dependencies
+	- Assessment of functions as they are deployed
+- Reporting and integration with AWS Security Hub
+- Send findings to Amazon EventBridge

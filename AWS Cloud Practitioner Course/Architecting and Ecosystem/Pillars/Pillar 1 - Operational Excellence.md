@@ -1,0 +1,28 @@
+- Includes the ability to run and monitor systems to deliver business value and to continually improve supporting processes and procedures
+- Design principles
+	- Perform operations as code
+		- Infrastructure as code
+	- Annotate documentation
+		- Automate the creation of annotated documentation after every build
+	- Make frequent, small, reversible changes
+		- So that in case of any failure, you can reverse it
+	- Refine operations procedures frequently
+		- Ensure the team members are familiar with it
+	- Anticipate failure
+	- Learn from all operational failures
+- Stages
+	- Prepare
+		- AWS CloudFormation
+		- AWS Config
+	- Operate
+		- AWS CloudFormation
+		- AWS Config
+		- AWS CloudTrail
+		- AWS CloudWatch
+		- AWS X-Ray
+	- Evolve
+		- AWS CloudFormation
+		- AWS CodeBuild
+		- AWS CodeCommit
+		- AWS CodeDeploy
+		- AWS CodePipeline

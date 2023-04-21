@@ -1,0 +1,6 @@
+- EC2 has many instance types but choosing the most powerful instance type isn't the best choice because the cloud is elastic
+- Right sizing
+	- The process of matching instance types and sizes to your workload performance and capacity requirements at the lowest possible cost
+- Scaling up is easy so always start small
+- It's also the process of looking at deployed instances and identifying opportunities to eliminate or downsize without compromising capacity or other requirements which results in lower costs
+- CloudWatch, Cost Explorer, and Trusted Advisor can help

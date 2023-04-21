@@ -1,0 +1,7 @@
+- GuardDuty, Macie, and Security Hub are used to identify potential security issues or findings
+- Sometimes security findings require deeper analysis to isolate the root cause and take action
+	- A complex process
+- Detective
+	- Analyzes, investigates, and quickly identifies the root cause of security issues or suspicious activities using machine learning and graphs
+	- Automatically collects and processes events from VPC Flow Logs, CloudTrail, GuardDuty and creates a unified view
+	- Produces visualizations with details and context to get to the root cause

@@ -1,0 +1,55 @@
+- Includes the ability to protect information, systems, and assets while delivering business value through risk assessments and mitigation strategies
+- Design principles
+	- Implement a strong identity foundation
+		- Centralize privilege management and reduce (or even eliminate) reliance on long-term credentials
+		- Principle of least privilege using IAM
+	- Enable traceability
+		- Integrate logs and metrics with systems to automatically respond and take action
+	- Apply security at all layers
+		- Including
+			- Edge network
+			- VPC
+			- Subnet
+			- Load balancer
+			- Every instance
+			- Operating System
+			- Applications
+	- Automate security best practices
+	- Protect data in transit and at rest
+		- Encryption
+		- Tokenization
+		- Access control
+	- Keep people away from data
+		- Reduce or eliminate the need for direct access or manual processing of data
+	- Prepare for security events
+		- Run incident response simulations
+		- Use tools with automation to increase
+			- Speed for detection
+			- Investigation
+			- Recovery
+- Stages
+	- Identity and Access Management
+		- IAM
+		- AWS STS
+		- MFA Token
+		- AWS Organizations
+	- Detective Controls
+		- AWS Config
+		- AWS CloudTrail
+		- AWS CloudWatch
+	- Infrastructure Protection
+		- AWS CloudFront
+		- AWS VPC
+		- AWS Shield
+		- AWS WAF
+		- AWS Inspector
+	- Data Protection
+		- AWS KMS
+		- AWS S3
+		- AWS ELB
+		- AWS EBS
+		- AWS RDS
+	- Incident Response
+		- IAM
+		- AWS CloudFormation
+		- AWS CloudWatch

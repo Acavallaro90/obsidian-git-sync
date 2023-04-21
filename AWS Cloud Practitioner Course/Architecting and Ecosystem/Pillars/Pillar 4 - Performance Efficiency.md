@@ -1,0 +1,30 @@
+- Includes the ability to use computing resources efficiently to meet system requirements and to maintain that efficieny as demand changes and technologies evolve
+- Design principles
+	- Democratize advanced technologies
+		- Advance technologies become services and hence you can focus more on product development
+	- Go global in minutes
+		- Easy deployment in multiple regions
+	- Use serverless architectures
+		- Avoid burden of managing servers
+	- Experiment more often
+		- Easy to carry out comparative testing
+	- Mechanical sympathy
+		- Be aware of all AWS services
+- Stages
+	- Selection
+		- AWS Auto Scaling
+		- AWS Lambda
+		- AWS EBS
+		- AWS S3
+		- AWS RDS
+	- Review
+		- AWS CloudFormation
+		- AWS News Blog
+	- Monitoring
+		- AWS CloudWatch
+		- AWS Lambda
+	- Tradeoffs
+		- AWS RDS
+		- AWS ElastiCache
+		- AWS Snowball
+		- AWS CloudFront
