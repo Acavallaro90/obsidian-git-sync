@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "db72efac29028232",
+        "id": "4c77c6301e4e77c5",
         "type": "tabs",
         "children": [
           {
-            "id": "ff58a7e37dcfc40a",
+            "id": "6efc9af0e350a2d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "EKS, Fargate, and DevOps/Kubernetes Basics/Docker Containers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "EKS, Fargate, and DevOps/Kubernetes Basics/Docker Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "EKS, Fargate, and DevOps/Kubernetes Basics/Docker Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "EKS, Fargate, and DevOps/Kubernetes Basics/Docker Containers.md"
+              }
             }
           }
         ]
@@ -138,54 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff58a7e37dcfc40a",
+  "active": "6efc9af0e350a2d8",
   "lastOpenFiles": [
+    "EKS, Fargate, and DevOps/Kubernetes Basics/Docker Containers.md",
+    "EKS, Fargate, and DevOps/Kubernetes Basics",
+    "EKS, Fargate, and DevOps",
+    "AWS Cloud Practitioner Course/EC2/AWS Budget Setup.md",
+    "AWS Cloud Practitioner Course/EC2/EC2 Basics.md",
     "AWS Cloud Practitioner Course/S3/Snow Family.md",
-    "AWS Cloud Practitioner Course/S3/Encryption.md",
     "AWS Cloud Practitioner Course/S3/Shared Responsibility Model.md",
     "AWS Cloud Practitioner Course/S3/S3 Storage Classes.md",
+    "AWS Cloud Practitioner Course/S3/S3 Versioning.md",
+    "AWS Cloud Practitioner Course/S3/S3 Security.md",
     "AWS Cloud Practitioner Course/S3/S3 Overview.md",
     "AWS Cloud Practitioner Course/S3/S3 Replication.md",
-    "AWS Cloud Practitioner Course/S3/S3 Versioning.md",
     "AWS Cloud Practitioner Course/S3/S3 Bucket Policies.md",
-    "AWS Cloud Practitioner Course/S3/S3 Security.md",
-    "AWS Cloud Practitioner Course/Other Services/Pinpoint Overview.md",
+    "AWS Cloud Practitioner Course/S3/Encryption.md",
     "AWS Cloud Practitioner Course/S3",
-    "AWS Cloud Practitioner Course/Other Services/Ground Station Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/WorkSpaces Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/Pinpoint Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/Other AWS Services.md",
     "AWS Cloud Practitioner Course/Other Services/Fault Injection Simulator.md",
-    "AWS Cloud Practitioner Course/Other Services/AWS Elastic Disaster Recovery (DRS).md",
-    "AWS Cloud Practitioner Course/Other Services/DataSync Overview.md",
-    "AWS Cloud Practitioner Course/Other Services/Disaster Recovery Strategies.md",
-    "AWS Cloud Practitioner Course/Other Services/Backup Overview.md",
-    "AWS Cloud Practitioner Course/Other Services/Device Farm Overview.md",
-    "AWS Cloud Practitioner Course/Other Services/AppSync Overview.md",
-    "AWS Cloud Practitioner Course/Other Services/Amplify Overview.md",
     "AWS Cloud Practitioner Course/Other Services/IoT Core Overview.md",
     "AWS Cloud Practitioner Course/Other Services/Elastic Transcoder Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/Ground Station Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/DataSync Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/Disaster Recovery Strategies.md",
+    "AWS Cloud Practitioner Course/Other Services/AWS Elastic Disaster Recovery (DRS).md",
+    "AWS Cloud Practitioner Course/Other Services/Device Farm Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/Backup Overview.md",
+    "AWS Cloud Practitioner Course/Other Services/AppSync Overview.md",
     "AWS Cloud Practitioner Course/Other Services/AppStream 2.0 Overview.md",
-    "AWS Cloud Practitioner Course/Other Services/WorkSpaces Overview.md",
-    "AWS Cloud Practitioner Course/Other Services/Other AWS Services.md",
-    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups/Summary.md",
     "AWS Cloud Practitioner Course/Other Services",
-    "conflict-files-obsidian-git.md",
-    "AWS Cloud Practitioner Course/Global Infrastructure",
-    "AWS Cloud Practitioner Course/Cloud Integrations",
-    "AWS Cloud Practitioner Course/Advanced Identity",
+    "AWS Cloud Practitioner Course/Machine Learning",
     "Images/Pasted image 20230412110051.png",
     "Images/Pasted image 20230412105721.png",
-    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups",
-    "Images/Pasted image 20230411175053.png",
-    "AWS Cloud Practitioner Course/Machine Learning",
-    "AWS Cloud Practitioner Course/VPC and Networking/Untitled",
-    "Images/Pasted image 20230410143350.png",
-    "Images",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "Images/Pasted image 20230411094516.png",
-    "AWS Cloud Practitioner Course/VPC and Networking",
+    "Images/Pasted image 20230411175053.png",
     "Images/Pasted image 20230410161329.png",
     "Images/Pasted image 20230410160741.png",
+    "Images/Pasted image 20230410143350.png",
     "Images/Pasted image 20230410140958.png",
-    "Images/Pasted image 20230410140601.png"
+    "Images/Pasted image 20230410140601.png",
+    "Images",
+    "AWS Cloud Practitioner Course/Global Infrastructure",
+    "AWS Cloud Practitioner Course/VPC and Networking",
+    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups",
+    "AWS Cloud Practitioner Course/EC2 Instance Storage",
+    "Untitled.canvas"
   ]
 }
