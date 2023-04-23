@@ -1,0 +1,32 @@
+- Data at rest
+	- Data stored or archived on a device
+	- On a hard disk, RDS instance, S3 Glacier Deep Archive, etc.
+- Data in transit
+	- In motion
+	- Data being moved from one location to another
+	- Transfer from on-premises to AWS, EC2 to DynamoDB, etc.
+	- Means data transferred on the network
+- We want to encrypt data in both states to protect it
+	- For this, we leverage encryption keys
+- KMS (Key Management Service)
+	- Any time you hear "encryption" for an AWS service, it's most likely KMS
+	- AWS manages the encryption keys for us
+- Encryption opt-in
+	- EBS volumes
+		- Encrypt volumes
+	- S3 buckets
+		- Server side encryption of objects
+	- Redshift database
+		- Encryption of data
+	- RDS database
+		- Encryption of data
+	- EFS drives
+		- Encryption of data
+- Encryption automatically enabled
+	- CloudTrail Logs
+	- S3 Glacier
+	- Storage Gateway
+- CloudSHM
+	- AWS provisions encryption hardware but we are responsible for the encryption keys
+	- Dedicated hardware (HSM)
+		- Hardware Security Module

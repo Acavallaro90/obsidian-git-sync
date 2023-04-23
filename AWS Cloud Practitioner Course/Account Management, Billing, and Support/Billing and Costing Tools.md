@@ -1,0 +1,10 @@
+- Estimating costs in the cloud
+	- Pricing calculator
+- Tracking costs in the cloud
+	- Billing dashboard
+	- Cost allocation tags
+	- Cost and usage reports
+	- Cost explorer
+- Monitoring against costs plans
+	- Billing alarms
+	- Budgets

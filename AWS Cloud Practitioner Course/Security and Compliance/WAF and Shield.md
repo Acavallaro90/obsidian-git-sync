@@ -1,0 +1,47 @@
+- AWS Shield Standard
+	- Protects against DDoS attack for your website and applications
+	- For all customers at no additional charge
+	- Free service that is activated for every AWS customer
+	- Provides protection from attacks such as
+		- SYN/UDP Floods
+		- Reflection attacks
+		- Other layer 3/4 attacks
+- AWS Shield Advanced
+	- 24/7 premium DDoS protection
+	- Optional DDoS mitigation service
+	- $3,000 per month per organization
+	- Protect against more sophisticated attack on
+		- AWS EC2
+		- AWS ELB
+		- AWS CloudFront
+		- AWS Global Accelerator
+		- AWS Route 53
+	- 24/7 access to AWS DDoS response team
+	- Protection against higher fees during usage spikes due to DDoS
+- AWS WAF
+	- Web Application Firewall
+	- Protects your web applications from common web exploits
+	- Layer 7 (HTTP)
+	- Deploy on
+		- Application Load Balancer
+		- API Gateway
+		- CloudFront
+	- Define Web ACL (Web Access Control List)
+		- Rules can include
+			- IP addresses
+			- HTTP headers
+			- HTTP body
+			- URI strings
+		- Protects against
+			- SQL injection
+			- Cross-site scripting (XSS)
+		- Size constraints
+		- Geo-match (block countries)
+		- Rate-based rules (to count occurrences of events)
+			- DDoS protection
+	- Filter specific requests based on rules
+- CloudFront and Route 53
+	- Availability protection using global edge network
+	- Combined with AWS Shield, provides attack mitigation at the edge
+- Be ready to scale if under attack
+	- Leverage AWS auto scaling

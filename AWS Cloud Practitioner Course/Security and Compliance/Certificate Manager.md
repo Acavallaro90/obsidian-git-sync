@@ -1,0 +1,8 @@
+- Let's you easily provision, manage, and deploy SSL/TLS certificates
+-  Used to provide in-flight encryption for websites (HTTPS)
+- Free of charge for public TLS certificates
+- Automatic TLS certificate renewal
+- Integrations with (loads TLS certificates on these services)
+	- Elastic Load Balancers
+	- CloudFront Distributions
+	- APIs on API Gateway

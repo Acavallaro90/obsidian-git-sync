@@ -1,0 +1,4 @@
+- Chef and Puppet help you perform server configuration automatically or repetitive actions
+- They work great with EC2 and on-premises VM
+- AWS OpsWorks = managed Chef and Puppet
+- An alternative to AWS SSM

@@ -1,0 +1,28 @@
+- AWS responsibility
+	- Security of the cloud
+		- Protecting infrastructure that runs all the AWS services
+			- Hardware
+			- Software
+			- Facilities
+			- Networking
+		- Managed services like
+			- S3
+			- DynamoDB
+			- RDS
+			- Etc
+- Customer responsibility
+	- Security in the cloud
+		- EC2
+			- Customer is responsible for
+				- Management of the guest Operating System
+				- Security patches
+				- Updates
+				- Firewall
+				- Networking configuration
+				- IAM
+		- Encrypting all data
+- Shared control
+	- Patch management
+	- Configuration management
+	- Awareness
+	- Training

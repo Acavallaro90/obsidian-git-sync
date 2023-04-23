@@ -1,0 +1,9 @@
+- Serverless is a new paradigm in which the developers don't have to manage servers anymore
+- They just deploy code or functions
+- Serverless was pioneered by AWS Lambda but now also includes anything that's managed
+	- Databases
+	- Messaging
+	- Storage
+	- Etc.
+- Serverless does not mean there are no servers
+	- It means, the user (me) just don't manage/provision/see the servers

@@ -1,0 +1,34 @@
+- RDS
+	- Relational Database Service
+	- A managed database service for a database to use with SQL as a query language
+	- It allows you to create databases in the cloud that are managed by AWS
+		- Postgres
+		- MySQL
+		- MariaDB
+		- Oracle
+		- Microsoft SQL Server
+		- Aurora (AWS proprietary database)
+	- Advantage of using RDS over deploying a SQL server on EC2
+		- RDS is a managed service
+			- Automated provisioning
+			- Operating System patching
+			- Continuous backups and restores to specific timestamp (Point in Time restore)
+			- Monitoring dashboards
+			- Read replicas for improved read performance
+			- Multi AZ setup for disaster recovery
+			- Maintenance windows for upgrades
+			- Scaling capability
+				- Vertical
+				- Horizontal
+			- Storage backed by EBS
+		- Negatives
+			- You cannot SSH into your instances
+- Aurora
+	- A proprietary technology from AWS (not open source)
+	- PostgreSQL and MySQL are both supported as Aurora DB
+	- "Cloud optimized"
+		- Claims 5x performance improvement over MySQL on RDS
+		- Claims 3x performance improvement over PostgreSQL on RDS
+	- Aurora storage automatically grows in increments of 10 GB up to 128 TB
+	- Aurora costs more than RDS (20% more) but is more efficient
+	- Not in the free tier

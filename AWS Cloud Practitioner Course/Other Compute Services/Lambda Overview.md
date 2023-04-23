@@ -1,0 +1,35 @@
+- With Amazon EC2
+	- Virtual servers in the Cloud
+	- Limited by RAM and CPU
+	- Continuously running
+	- Scaling means intervention to add/remove servers
+- With Amazon Lambda
+	- Virtual functions
+		- No servers to manage
+	- Limited by time
+		- Short executions
+	- Run on-demand
+	- Scaling is automated
+- Benefits
+	- Easy pricing
+		- Pay per request and compute time
+		- Free tier of 1,000,000 AWS Lambda requests and 400,000 GBs of compute time
+	- Integrated with the whole AWS suite of services
+	- Event-driven
+		- Functions get invoked by AWS when needed
+	- Integrated with many programming languages
+	- Easy monitoring through AWS CloudWatch
+	- Easy to get more resources per function (up to 10 GB of RAM)
+	- Increasing RAM will also improve CPU and network
+	- Language support
+		- Node.js
+		- Python
+		- Java
+		- C#
+		- Go
+		- PowerShell
+		- Ruby
+		- Custom runtime API (Rust)
+		- Lambda container image
+			- The container image must implement the Lambda Runtime API
+			- ECS/Fargate is preferred for running arbitrary Docker images

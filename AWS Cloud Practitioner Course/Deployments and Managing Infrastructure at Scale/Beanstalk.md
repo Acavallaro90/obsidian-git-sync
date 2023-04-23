@@ -1,0 +1,50 @@
+- Developer problems on AWS
+	- Managing infrastructure
+	- Deploying code
+	- Configuring all the databases, load balancers, etc.
+	- Scaling concerns
+	- Most web applications have the same architecture (ALB + ASG)
+	- All the developers want is for their code to run
+	- Possibly, consistently across different applications and environments
+- Beanstalk
+	- A developer centric view of deploying an application on AWS
+	- It uses all the components we've seen before
+		- EC2
+		- ASG
+		- ELB
+		- RDS
+		- Etc
+	- It's all in one view that's easy to make sense of
+	- We still have full control over the configuration
+	- Platform as a Service (PaaS)
+	- Free but you pay for the underlying instances
+	- Managed service by Beanstalk
+		- Instance configuration
+		- Operating System
+		- Deployment strategy is configurable but performed by Beanstalk
+		- Capacity provisioning
+		- Load balancing
+		- Auto scaling
+		- Application health-monitoring and responsiveness
+	- User is responsible for just the application code
+- Three architecture models
+	- Single instance deployment
+		- Good for development environments
+	- Load balancer and auto scaling group
+		- Great for production or pre-production web applications
+	- Auto scaling group only
+		- Great for non-web applications in production
+- Supports the following platforms
+	- Go
+	- Jave SE
+	- Java with Tomcat
+	- .NET on Windows Server with IIS
+	- Node.js
+	- PHP
+	- Python
+	- Ruby
+	- Packer Builder
+	- Single Container Docker
+	- Multi-Container Docker
+	- Pre-configured Docker
+	- If not supported, you can write your custom platform

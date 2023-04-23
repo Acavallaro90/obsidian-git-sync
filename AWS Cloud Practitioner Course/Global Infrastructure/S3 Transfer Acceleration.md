@@ -1,0 +1,2 @@
+- Increase transfer speed by transferring files to an AWS edge location which will forward the data to the S3 bucket in the target region
+- Used to upload/download an object from an S3 bucket that is far away from you

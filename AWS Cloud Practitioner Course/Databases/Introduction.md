@@ -1,0 +1,44 @@
+- Storing data on disk (EFS, EBS, EC2 Instance Store, S3) can have its limits
+- To have a structured way of storing data, use a database
+- You can structure the data
+- You build indexes to efficiently query/search through the data
+- You define relationships between your datasets
+- Databases are optimized for a purpose and come with different features, shapes and constraints
+- Types of databases
+	- Relational databases
+		- Looks just like Excel spreadsheets with links between them
+		- Can use the SQL language to perform queries/lookups
+	- NoSQL
+		- Non-relational databases
+		- Are purpose built for specific data models and have flexible schemas for building modern applications
+		- Benefits
+			- Flexibility
+				- Easy to evolve data model
+			- Scalability
+				- Designed to scale-out by using distributed clusters
+			- High performance
+				- Optimized for a specific data model
+			- Highly functional
+				- Types optimized for the data model
+		- Examples
+			- Key-value
+			- Document
+				- JSON
+			- Graph
+			- In-memory
+			- Search
+- Shared Responsibility Model
+	- AWS offers to manage different databases
+	- Benefits
+		- Quick provisioning
+		- High availability
+		- Vertical scaling
+		- Horizontal scaling
+		- Automated backup
+		- Automated restore
+		- Operations
+		- Upgrades
+		- Operating System patching is handled by AWS
+		- Monitoring
+		- Alerting
+		- Note: many database technologies can be run on EC2, but you must handle yourself the resiliency, backup, patching, high availability, fault tolerance, scaling, etc.

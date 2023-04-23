@@ -1,0 +1,16 @@
+- Orchestrate the different steps to have the code automatically deployed to production
+- Basis for CI/CD
+- Orchestrates the use of CodeCommit, CodeBuild, and CodeDeploy
+- Benefits
+	- Fully managed
+	- Compatible with
+		- CodeCommit
+		- CodeBuild
+		- CodeDeploy
+		- Elastic Beanstalk
+		- CloudFormation
+		- GitHub
+		- 3rd party services
+		- Custom plugins
+	- Fast delivery
+	- Rapid updates

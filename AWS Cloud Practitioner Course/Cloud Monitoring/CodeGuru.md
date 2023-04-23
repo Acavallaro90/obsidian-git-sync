@@ -1,0 +1,35 @@
+- A machine learning service for automated code reviews and application performance recommendations
+- Provides two functionalities
+	- Reviewer
+		- Automated code reviews for static code analysis (development)
+		- Uses machine learning and automated reasoning
+		- Hard-learned lessons across millions of code reviews on 1000s of open-source and Amazon repositories
+		- Supports
+			- Java
+			- Python
+		- Integrates with
+			- GitHub
+			- Bitbucket
+			- AWS CodeCommit
+		- Identify critical issues
+		- Identify security vulnerabilities
+		- Identify hard-to-find bugs
+		- Example:
+			- Common coding best practices
+			- Resource leaks
+			- Security detection
+			- Input validation
+	- Profiler
+		- Visibility/recommendations about application performance during runtime (production)
+		- Helps understand the runtime behavior of your application
+		- Example: identify if your application is consuming excessive CPU capacity on a logging routine
+		- Features
+			- Identify and remove code inefficiencies
+			- Improve application performance
+				- Reduce CPU utilization
+			- Decrease compute costs
+			- Provide heap summary
+				- Identify which objects are using up memory
+			- Anomaly detection
+		- Support applications running on AWS or on-premises
+		- Minimal overhead on application

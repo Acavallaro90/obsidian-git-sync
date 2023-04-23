@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd67c925b436a996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EKS, Fargate, and DevOps/Kubernetes Basics/Docker Containers.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EKS, Fargate, and DevOps/Kubernetes Basics/Docker Containers.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EKS, Fargate, and DevOps/Kubernetes Basics/Docker Containers.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,39 +159,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6efc9af0e350a2d8",
+  "active": "dd67c925b436a996",
   "lastOpenFiles": [
     "EKS, Fargate, and DevOps/Kubernetes Basics/Docker Containers.md",
+    "conflict-files-obsidian-git.md",
+    "AWS Cloud Practitioner Course/Other Compute Services/What is Docker.md",
+    "AWS Cloud Practitioner Course/Other Compute Services/Serverless Introduction.md",
+    "AWS Cloud Practitioner Course/Other Compute Services/Lambda Overview.md",
+    "AWS Cloud Practitioner Course/Other Compute Services/ECS, Fargate, and ECR Overview.md",
+    "AWS Cloud Practitioner Course/Other Compute Services/Batch.md",
+    "AWS Cloud Practitioner Course/Other Compute Services/Amazon API Gateway.md",
+    "AWS Cloud Practitioner Course/Other Compute Services",
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/Systems Manager (SSM).md",
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/SSM Sessions Manager.md",
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/OpsWorks.md",
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodeStar.md",
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodePipeline.md",
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodeDeploy.md",
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodeCommit.md",
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodeBuild.md",
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CodeArtifact.md",
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/CloudFormation.md",
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/Cloud9.md",
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/Cloud Development Kit (CDK).md",
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/Beanstalk.md",
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Pillars/Pillar 6 - Sustainability.md",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Pillars/Pillar 5 - Cost Optimization.md",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Pillars/Pillar 4 - Performance Efficiency.md",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Pillars/Pillar 3 - Reliability.md",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Pillars/Pillar 2 - Security.md",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Pillars",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem",
+    "Images/Pasted image 20230418102040.png",
+    "Images/Pasted image 20230418101739.png",
+    "AWS Cloud Practitioner Course/Security and Compliance",
+    "AWS Cloud Practitioner Course/Databases",
+    "AWS Cloud Practitioner Course/Cloud Monitoring",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support",
     "EKS, Fargate, and DevOps/Kubernetes Basics",
     "EKS, Fargate, and DevOps",
-    "AWS Cloud Practitioner Course/EC2/AWS Budget Setup.md",
-    "AWS Cloud Practitioner Course/EC2/EC2 Basics.md",
-    "AWS Cloud Practitioner Course/S3/Snow Family.md",
-    "AWS Cloud Practitioner Course/S3/Shared Responsibility Model.md",
-    "AWS Cloud Practitioner Course/S3/S3 Storage Classes.md",
-    "AWS Cloud Practitioner Course/S3/S3 Versioning.md",
-    "AWS Cloud Practitioner Course/S3/S3 Security.md",
-    "AWS Cloud Practitioner Course/S3/S3 Overview.md",
-    "AWS Cloud Practitioner Course/S3/S3 Replication.md",
-    "AWS Cloud Practitioner Course/S3/S3 Bucket Policies.md",
-    "AWS Cloud Practitioner Course/S3/Encryption.md",
-    "AWS Cloud Practitioner Course/S3",
-    "AWS Cloud Practitioner Course/Other Services/WorkSpaces Overview.md",
-    "AWS Cloud Practitioner Course/Other Services/Pinpoint Overview.md",
-    "AWS Cloud Practitioner Course/Other Services/Other AWS Services.md",
-    "AWS Cloud Practitioner Course/Other Services/Fault Injection Simulator.md",
-    "AWS Cloud Practitioner Course/Other Services/IoT Core Overview.md",
-    "AWS Cloud Practitioner Course/Other Services/Elastic Transcoder Overview.md",
-    "AWS Cloud Practitioner Course/Other Services/Ground Station Overview.md",
-    "AWS Cloud Practitioner Course/Other Services/DataSync Overview.md",
-    "AWS Cloud Practitioner Course/Other Services/Disaster Recovery Strategies.md",
-    "AWS Cloud Practitioner Course/Other Services/AWS Elastic Disaster Recovery (DRS).md",
-    "AWS Cloud Practitioner Course/Other Services/Device Farm Overview.md",
-    "AWS Cloud Practitioner Course/Other Services/Backup Overview.md",
-    "AWS Cloud Practitioner Course/Other Services/AppSync Overview.md",
-    "AWS Cloud Practitioner Course/Other Services/AppStream 2.0 Overview.md",
-    "AWS Cloud Practitioner Course/Other Services",
-    "AWS Cloud Practitioner Course/Machine Learning",
     "Images/Pasted image 20230412110051.png",
     "Images/Pasted image 20230412105721.png",
     "Images/Pasted image 20230411094516.png",
@@ -187,12 +207,6 @@
     "Images/Pasted image 20230410160741.png",
     "Images/Pasted image 20230410143350.png",
     "Images/Pasted image 20230410140958.png",
-    "Images/Pasted image 20230410140601.png",
-    "Images",
-    "AWS Cloud Practitioner Course/Global Infrastructure",
-    "AWS Cloud Practitioner Course/VPC and Networking",
-    "AWS Cloud Practitioner Course/Elastic Load Balancing and Auto Scaling Groups",
-    "AWS Cloud Practitioner Course/EC2 Instance Storage",
     "Untitled.canvas"
   ]
 }

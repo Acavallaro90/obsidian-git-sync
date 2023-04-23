@@ -1,0 +1,6 @@
+- Used to deploy our applications automatically
+- Works with EC2 instances
+- Works with on-premises servers
+- Hybrid service
+- Servers/instances must be provisioned and configured ahead of time with the CodeDeploy agent
+- Basically Octopus Deploy for us

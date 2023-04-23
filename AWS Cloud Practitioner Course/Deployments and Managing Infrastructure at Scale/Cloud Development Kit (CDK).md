@@ -1,0 +1,9 @@
+- Define your cloud infrastructure using a familiar programming language
+	- JavaScript
+	- Python
+	- Java
+	- .NET
+- The code is "compiled" into a CloudFormation template (JSON/YAML)
+- You can therefore deploy infrastructure and application runtime together
+	- Great for Lambda functions
+	- Great for Docker containers in ECS/EKS

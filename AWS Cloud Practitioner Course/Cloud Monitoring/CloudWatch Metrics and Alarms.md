@@ -1,0 +1,48 @@
+- CloudWatch provieds metrics for every service in AWS
+- Metric
+	- A variable to monitor
+		- CPU utilization
+		- Networking
+		- Etc.
+	- Have timestamps
+- You can create CloudWatch dashboards of metrics
+- Important metrics
+	- EC2 instances
+		- CPU utilization
+		- Status checks
+		- Network
+		- Cannot monitor RAM
+		- Default retrieval of metrics is every 5 minutes
+			- Can reduce to every 1 minute but costly
+	- EBS volumes
+		- Disk read
+		- Disk write
+	- S3 buckets
+		- BucketSizeBytes
+		- NumberOfObjects
+		- AllRequests
+	- Billing
+		- Total estimated charges
+		- Only in us-east-1
+	- Service limits
+		- How much you've been using a service API
+	- Custom metrics
+		- Push your own custom metrics
+- CloudWatch Alarms
+	- Alarms are used to trigger notifications for any metric
+	- Alarm actions
+		- Auto scaling
+			- Increase or decrease EC2 instances "desired" count
+		- EC2 actions
+			- Stop
+			- Terminate
+			- Reboot
+			- Recover
+		- SNS notifications
+			- Send a notification into an SNS topic
+	- Can choose the period in which to evaluate an alarm
+	- Example: create a billing alarm on the CloudWatch Billing metric
+	- Alarm states
+		- OK
+		- INSUFFICIENT_DATA
+		- ALARM

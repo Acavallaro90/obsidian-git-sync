@@ -1,0 +1,16 @@
+- ECS
+	- Elastic Container Service
+	- Launches Docker containers on AWS
+	- You must provision and maintain the infrastructure (EC2 instances) in advance
+	- AWS takes care of starting/stopping containers
+	- Has integrations with the Application Load Balancer (ALB)
+- Fargate
+	- Launch Docker containers on AWS
+	- You do not provision the infrastructure (no EC2 instances to manage)
+		- Simpler
+	- Serverless offering
+	- AWS just runs containers for you based on the CPU/RAM you need
+- ECR
+	- Elastic Container Registry
+	- Private Docker registry on AWS
+	- This is where you store your Docker images so they can be run by ECS or Fargate

@@ -1,0 +1,10 @@
+- Managed extract, transform, and load (ETL) service
+- Useful to prepare and transform data for analytics
+- Fully serverless service
+- Need to focus on ETL
+	- Extract
+	- Transform
+	- Load
+- Glue Data Catalog
+	- Catalog of datasets
+	- Can be used by Athena, Redshift and EMR

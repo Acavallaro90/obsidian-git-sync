@@ -1,0 +1,8 @@
+- Schedule Cron jobs
+- Example: every hour, run a Lambda function
+- Event pattern
+	- Event rules to react to a service doing something
+	- Example: someone signs into AWS as the root user and EventBridge will send an SNS topic with email notification
+- Able to get events from Partners (3rd party software)
+- Schema registry
+	- Model event schema

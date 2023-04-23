@@ -1,0 +1,11 @@
+- Database Migration Service
+- Pulls data from a source database to an EC2 instance running DMS and then inject that data into a destination database
+- Quickly and securely migrate databases to AWS
+- Resilient
+- Self healing
+- The source database remains available during the migration
+- Supports
+	- Homogenous migration
+		- Oracle database to Oracle database
+	- Heterogenous migration
+		- Microsoft SQL Server to Aurora

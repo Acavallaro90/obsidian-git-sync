@@ -1,0 +1,8 @@
+- Free tool to review your architectures against the six pillars of the Well-Architected Framework and adopt architectural best practices
+- How does it work
+	- Select your workload and answer questions
+	- Review your answers against the six pillars
+	- Obtain advice
+		- Get videos and documentation
+		- Generate a report
+		- See the results in a dashboard

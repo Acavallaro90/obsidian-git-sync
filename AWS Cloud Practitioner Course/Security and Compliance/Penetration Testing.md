@@ -1,0 +1,24 @@
+- AWS customers are welcome to carry out security assessments or penetration tests against their AWS infrastructure without prior approval for eight services
+	- AWS EC2 Instances
+		- NAT Gateways
+		- Elastic Load Balancers
+	- AWS RDS
+	- AWS CloudFront
+	- AWS Aurora
+	- AWS API Gateways
+	- AWS Lambda
+		- AWS Lambda Edge functions
+	- AWS Lightsail resources
+	- AWS Elastic Beanstalk environments
+- List may increase over time
+- Prohibited activities
+	- DNS zone walking via AWS Route 53 Hosted Zones
+	- Denial of Service (DoS)
+	- Distributed Denial of Service (DDoS)
+	- Simulated DoS
+	- Simulated DDoS
+	- Port flooding
+	- Request flooding
+		- Login request flooding
+		- API request flooding
+	- For other requests, contact the security team of AWS

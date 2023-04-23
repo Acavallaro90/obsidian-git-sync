@@ -1,0 +1,8 @@
+- Newer service
+- Meant for storing secrets
+- Capability to force rotation of secrets every x days
+- Automate generation of secrets on rotation (uses Lambda)
+- Integration with AWS RDS (mySQL, PostgreSQL, Aurora)
+- Secrets are encrypted using KMS
+- Mostly meant for RDS integration
+- Paid service

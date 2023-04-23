@@ -1,0 +1,31 @@
+- Includes the ability to run systems to deliver business value at the lowest price point
+- Design principles
+	- Adopt a consumption mode
+		- Pay for only what you use
+	- Measure overall efficiency
+		- Use CloudWatch
+	- Stop spending money on data center operations
+		- AWS does the infrastructure part and enables customers to focus on organization projects
+	- Analyze and attribute expenditure
+		- Accurate identification of system usage and costs
+		- Helps measure return on investment (ROI)
+		- Make sure to use tags
+	- Use managed and application level services to reduce cost of ownership
+		- As managed services operate at cloud scale, they can offer a lower cost per transaction or service
+- Stages
+	- Expenditure Awareness
+		- AWS Budgets
+		- AWS Cost and Usage Reports
+		- AWS Cost Explorer
+		- AWS Reserved Instance Reporting
+	- Cost-Effective Resources
+		- AWS EC2 Spot Instances
+		- AWS EC2 Reserved Instances
+		- AWS S3 Glacier
+	- Matching Supply and Demand
+		- AWS Auto Scaling
+		- AWS Lambda
+	- Optimizing Over Time
+		- AWS Trusted Advisor
+		- AWS Cost and Usage Report
+		- AWS News Blog

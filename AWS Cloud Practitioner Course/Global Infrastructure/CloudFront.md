@@ -1,0 +1,19 @@
+- Content Delivery Network (CDN)
+- Improves read performance
+- Content is cached at the edge
+- Improves user experiences
+- 216 Points of Presence globally (edge locations)
+- DDoS protection
+- Integration with
+	- Shield
+	- AWS Web Application Firewall
+- Origins
+	- S3 buckets
+		- For distributing files and caching them at the edge
+		- Enhanced security with CloudFront Origin Access Control (OAC)
+		- CloudFront can be used as an ingress to upload files to S3
+	- Custom Origin HTTP
+		- Application Load Balancer
+		- EC2 instance
+		- S3 website (must first enable the bucket as a static S3 website)
+		- Any HTTP backend you want

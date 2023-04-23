@@ -1,0 +1,30 @@
+- Compute Optimizer
+	- Recommends resources' configurations to reduce cost
+- Pricing Calculator
+	- Estimate cost of services on AWS
+- Billing Dashboard
+	- High level overview of bill
+	- Free tier dashboard
+- Cost Allocation Tags
+	- Tag resources to create detailed reports
+- Cost and Usage Reports
+	- Most comprehensive billing dataset
+- Cost Explorer
+	- View current usage (detailed)
+	- Forecast usage
+- Billing Alarms
+	- Only in us-east-1
+	- Track overall and per-service billing
+- Budgets
+	- More advanced
+	- Track
+		- Usage
+		- Costs
+		- RI
+	- Get alerts
+- Savings Plans
+	- Easy way to save based on long-term usage of AWS
+- Cost Anomaly Detection
+	- Detect unusual spending using machine learning
+- Service Quotas
+	- Notify you when you're close to a service quota threshold

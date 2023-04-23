@@ -1,0 +1,24 @@
+- No need to install anything
+- High level AWS account assessment
+- Analyze your AWS accounts and provides recommendation on five categories
+	- Cost optimization
+	- Performance
+	- Security
+	- Fault tolerance
+	- Service limits
+- Support plans
+	- Basic and developer support plan
+		- 7 core checks
+			- S3 bucket permissions
+			- Security groups
+				- Specific ports unrestricted
+			- IAM use
+				- One IAM user minimum
+			- MFA on root account
+			- EBS public snapshots
+			- RDS public snapshots
+			- Service limits
+	- Business and enterprise plan
+		- Full checks available on the five categories
+		- Ability to set CloudWatch alarms when reaching limits
+		- Programmatic access using AWS Support API

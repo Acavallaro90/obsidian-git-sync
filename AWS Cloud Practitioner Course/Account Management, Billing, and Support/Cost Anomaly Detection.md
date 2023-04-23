@@ -1,0 +1,5 @@
+- Continuously monitor your cost and usage using machine learning to determine unusual spending
+- It learns your unique, historic spending patterns to detect one-time cost spikes and/or continuous cost increases (you don't need to define thresholds)
+- Monitor AWS services, member accounts, cost allocation tags, or cost categories
+- Sends you the anomaly detection report with root-cause analysis
+- Get notified with individual alerts or daily/weekly summary (using SNS)

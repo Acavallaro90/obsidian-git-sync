@@ -1,0 +1,15 @@
+- Report suspected AWS resources used for abusive or illegal purposes
+- Abusive and prohibited behaviors
+	- Spam
+		- Receiving undesired emails from AWS-owned IP addresses, websites, and forums spammed by AWS resources
+	- Port scanning
+		- Sending packets to your ports to discover the unsecured ones
+	- DoS or DDoS attacks
+		- AWS-owned IP addresses attempting to overwhelm or crash your servers/softwares
+	- Intrusion attempts
+		- Logging in on your resources
+	- Hosting objectionable or copyrighted content
+		- Distributing illegal or copyrighted content without consent
+	- Distributing malware
+		- AWS resources distributing softwares to harm computers or machines
+- Contact the AWS abuse team

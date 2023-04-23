@@ -1,0 +1,2 @@
+- Available at https://calculator.aws/
+- Estimate the cost for your solution architecture
