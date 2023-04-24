@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2669101fe7059ac4",
+        "id": "1e0f1187e00920b8",
         "type": "tabs",
         "children": [
           {
-            "id": "4b5f5d88fbd6455d",
+            "id": "64e84863a4de3f1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Cloud Practitioner Course/EC2 Instance Storage/EC2 Instance Store.md",
+                "file": "Terraform for AWS/Terraform Destroy.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner Course/EC2 Instance Storage/EC2 Instance Store.md",
+                "file": "Terraform for AWS/Terraform Destroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner Course/EC2 Instance Storage/EC2 Instance Store.md",
+                "file": "Terraform for AWS/Terraform Destroy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner Course/EC2 Instance Storage/EC2 Instance Store.md"
+                "file": "Terraform for AWS/Terraform Destroy.md"
               }
             }
           }
@@ -146,55 +146,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b5f5d88fbd6455d",
+  "active": "64e84863a4de3f1f",
   "lastOpenFiles": [
-    "AWS Cloud Practitioner Course/EC2 Instance Storage/EFS Overview.md",
-    "AWS Cloud Practitioner Course/Security and Compliance/Encryption with KMS and CloudSHM.md",
-    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Pillars/Pillar 3 - Reliability.md",
-    "AWS Cloud Practitioner Course/Databases/DynamoDB.md",
-    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale/Beanstalk.md",
-    "AWS Cloud Practitioner Course/Security and Compliance/Security Hub.md",
-    "AWS Cloud Practitioner Course/S3/S3 Storage Classes.md",
-    "AWS Cloud Practitioner Course/Security and Compliance/Config.md",
-    "AWS Cloud Practitioner Course/Security and Compliance/Secrets Manager.md",
-    "AWS Cloud Practitioner Course/Security and Compliance/WAF and Shield.md",
-    "AWS Cloud Practitioner Course/Security and Compliance/IAM Access Analyzer.md",
-    "AWS Cloud Practitioner Course/Security and Compliance/Inspector.md",
-    "AWS Cloud Practitioner Course/Security and Compliance/GuardDuty.md",
-    "AWS Cloud Practitioner Course/Security and Compliance/Artifact.md",
-    "AWS Cloud Practitioner Course/Security and Compliance/Detective.md",
-    "AWS Cloud Practitioner Course/Security and Compliance/Abuse.md",
-    "AWS Cloud Practitioner Course/Security and Compliance/Macie.md",
+    "Terraform for AWS/Terraform Destroy.md",
+    "Terraform for AWS/Terraform Apply.md",
+    "Terraform for AWS/Terraform Plan.md",
+    "Terraform for AWS/Terraform Init.md",
+    "Terraform for AWS/Creating Your First Resource.md",
+    "Terraform for AWS/What is Terraform.md",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Ecosystem.md",
+    "Terraform for AWS",
     "AWS Cloud Practitioner Course/Security and Compliance/AWS Shared Responsibility Model.md",
-    "AWS Cloud Practitioner Course/Security and Compliance/Penetration Testing.md",
-    "AWS Cloud Practitioner Course/Security and Compliance/Certificate Manager.md",
-    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Pillars/Pillar 4 - Performance Efficiency.md",
-    "AWS Cloud Practitioner Course/Security and Compliance",
-    "AWS Cloud Practitioner Course/Architecting and Ecosystem/IQ.md",
     "AWS Cloud Practitioner Course/Architecting and Ecosystem/Well Architected Tool.md",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Right Sizing.md",
     "AWS Cloud Practitioner Course/Architecting and Ecosystem/Pillars/Pillar 6 - Sustainability.md",
     "AWS Cloud Practitioner Course/Architecting and Ecosystem/Pillars/Pillar 5 - Cost Optimization.md",
-    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Right Sizing.md",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Pillars/Pillar 4 - Performance Efficiency.md",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Pillars/Pillar 3 - Reliability.md",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Pillars/Pillar 1 - Operational Excellence.md",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Pillars/Pillar 2 - Security.md",
     "AWS Cloud Practitioner Course/Architecting and Ecosystem/Pillars",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Managed Services (AMS).md",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem/Knowledge Center.md",
+    "AWS Cloud Practitioner Course/Architecting and Ecosystem/IQ.md",
+    "AWS Cloud Practitioner Course/Global Infrastructure/Summary.md",
     "AWS Cloud Practitioner Course/Architecting and Ecosystem",
+    "AWS Cloud Practitioner Course/Security and Compliance",
+    "AWS Cloud Practitioner Course/Global Infrastructure/Global Applications Architecture.md",
+    "AWS Cloud Practitioner Course/Global Infrastructure/Local Zones.md",
+    "AWS Cloud Practitioner Course/Global Infrastructure/WaveLength.md",
+    "AWS Cloud Practitioner Course/Global Infrastructure/Outposts.md",
+    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Organizations.md",
+    "AWS Cloud Practitioner Course/Global Infrastructure/Global Accelerator.md",
     "AWS Cloud Practitioner Course/Account Management, Billing, and Support",
+    "AWS Cloud Practitioner Course/Other Compute Services",
+    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale",
     "Images/Pasted image 20230418102040.png",
     "Images/Pasted image 20230418101739.png",
-    "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale",
-    "AWS Cloud Practitioner Course/Cloud Monitoring",
-    "AWS Cloud Practitioner Course/Databases",
-    "AWS Cloud Practitioner Course/Other Compute Services",
     "AWS Cloud Practitioner Course/S3",
     "AWS Cloud Practitioner Course/Other Services",
+    "AWS Cloud Practitioner Course/Databases",
     "Images/Pasted image 20230412110051.png",
     "Images/Pasted image 20230412105721.png",
     "Images/Pasted image 20230411175053.png",
-    "Images/Pasted image 20230410143350.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "Images/Pasted image 20230411094516.png",
     "Images/Pasted image 20230410161329.png",
+    "Images/Pasted image 20230410140958.png",
     "Images/Pasted image 20230410160741.png",
-    "Images/Pasted image 20230410140958.png"
+    "Images/Pasted image 20230410143350.png",
+    "Untitled.canvas"
   ]
 }

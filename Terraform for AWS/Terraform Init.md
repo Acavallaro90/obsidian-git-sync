@@ -1,0 +1,2 @@
+- Must be ran from PowerShell inside of the resource main.tf file
+- This pulls down the provider plugins and gets Terraform ready

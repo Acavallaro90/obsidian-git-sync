@@ -1,0 +1,2 @@
+- Terraform plan tells Terraform what it is already created and what it needs to create
+- Looks at a state file (more to come on this)

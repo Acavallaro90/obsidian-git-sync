@@ -1,0 +1,2 @@
+- Run terraform apply to apply the resources listed in the main.tf file
+- It will ask for verification and show changes to be made so you can verify first

@@ -1,0 +1,9 @@
+- What is infrastructure
+	- Virtual servers
+	- Lambda
+	- Kubernetes clusters
+	- Etc.
+- What is infrastructure as code
+	- Developers and/or Operations teams automatically manage and provision the technology stack for an application through software rather than using a manual process to configure hardware devices and operating systems
+- Terraform
+	- A multiplatform tool used for infrastructure as code across many cloud providers
