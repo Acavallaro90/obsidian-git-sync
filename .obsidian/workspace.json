@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c333ede984e51da5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terraform for AWS/Terraform Destroy.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terraform for AWS/Terraform Destroy.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terraform for AWS/Terraform Destroy.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,9 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64e84863a4de3f1f",
+  "active": "c333ede984e51da5",
   "lastOpenFiles": [
     "Terraform for AWS/Terraform Destroy.md",
+    "conflict-files-obsidian-git.md",
+    "EKS, Fargate, and DevOps/Kubernetes Basics/Docker Containers.md",
+    "EKS, Fargate, and DevOps/Kubernetes Basics",
+    "EKS, Fargate, and DevOps",
     "Terraform for AWS/Terraform Apply.md",
     "Terraform for AWS/Terraform Plan.md",
     "Terraform for AWS/Terraform Init.md",
@@ -176,16 +193,12 @@
     "AWS Cloud Practitioner Course/Global Infrastructure/Local Zones.md",
     "AWS Cloud Practitioner Course/Global Infrastructure/WaveLength.md",
     "AWS Cloud Practitioner Course/Global Infrastructure/Outposts.md",
-    "AWS Cloud Practitioner Course/Account Management, Billing, and Support/Organizations.md",
-    "AWS Cloud Practitioner Course/Global Infrastructure/Global Accelerator.md",
     "AWS Cloud Practitioner Course/Account Management, Billing, and Support",
     "AWS Cloud Practitioner Course/Other Compute Services",
     "AWS Cloud Practitioner Course/Deployments and Managing Infrastructure at Scale",
     "Images/Pasted image 20230418102040.png",
     "Images/Pasted image 20230418101739.png",
     "AWS Cloud Practitioner Course/S3",
-    "AWS Cloud Practitioner Course/Other Services",
-    "AWS Cloud Practitioner Course/Databases",
     "Images/Pasted image 20230412110051.png",
     "Images/Pasted image 20230412105721.png",
     "Images/Pasted image 20230411175053.png",
